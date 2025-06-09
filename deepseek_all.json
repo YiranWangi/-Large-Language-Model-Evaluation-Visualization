@@ -1,0 +1,4694 @@
+{
+    "results": [
+        {
+            "question_id": 0,
+            "question": "肉牛屠宰后，胴体的哪个部位肉质较好",
+            "options": {
+                "A": "胸",
+                "B": "腹",
+                "C": "大腿",
+                "D": "小腿"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:04"
+        },
+        {
+            "question_id": 1,
+            "question": "下列鸭品种中，产蛋量最高的品种是",
+            "options": {
+                "A": "高邮鸭",
+                "B": "北京鸭",
+                "C": "樱桃谷鸭",
+                "D": "绍鸭"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:09"
+        },
+        {
+            "question_id": 2,
+            "question": "常见家畜中输精管不形成输精管壶腹的是",
+            "options": {
+                "A": "马",
+                "B": "猪",
+                "C": "牛",
+                "D": "羊"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:14"
+        },
+        {
+            "question_id": 3,
+            "question": "牛的发情周期平均为",
+            "options": {
+                "A": "16～17天",
+                "B": "21天",
+                "C": "28天",
+                "D": "19～20天"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:19"
+        },
+        {
+            "question_id": 4,
+            "question": "羊胴体中，肉质较好的部位是",
+            "options": {
+                "A": "胸下肉",
+                "B": "肩胛肉",
+                "C": "后腿肉",
+                "D": "小腿肉"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:19:24"
+        },
+        {
+            "question_id": 5,
+            "question": "壁胸膜的分部不包括",
+            "options": {
+                "A": "肋胸膜",
+                "B": "肺胸膜",
+                "C": "膈胸膜",
+                "D": "胸膜顶"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:29"
+        },
+        {
+            "question_id": 6,
+            "question": "属于蝶骨上的结构为",
+            "options": {
+                "A": "垂体窝",
+                "B": "棘孔",
+                "C": "破裂孔",
+                "D": "视神经管"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:19:34"
+        },
+        {
+            "question_id": 7,
+            "question": "属于右心房的结构是",
+            "options": {
+                "A": "肉柱",
+                "B": "室上嵴",
+                "C": "乳头肌",
+                "D": "梳状肌"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:39"
+        },
+        {
+            "question_id": 8,
+            "question": "咽的分部",
+            "options": {
+                "A": "咽隐窝",
+                "B": "口咽部",
+                "C": "鼻咽部",
+                "D": "喉咽部"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:19:44"
+        },
+        {
+            "question_id": 9,
+            "question": "舌下神经核位于",
+            "options": {
+                "A": "间脑",
+                "B": "延髓",
+                "C": "中脑",
+                "D": "脑挢"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:50"
+        },
+        {
+            "question_id": 10,
+            "question": "下列四组字中，全是形声字的一组是",
+            "options": {
+                "A": "修约菜苗",
+                "B": "寐融照哀",
+                "C": "问娶分笺",
+                "D": "保禄私空"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:54"
+        },
+        {
+            "question_id": 11,
+            "question": "下列四组字中，全是会意字的一组是",
+            "options": {
+                "A": "集冰迢逐",
+                "B": "凭亦寒罟",
+                "C": "莫鱼向闽",
+                "D": "牧岩岳泪"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:19:59"
+        },
+        {
+            "question_id": 12,
+            "question": "下列句中，“是”充当前置宾语的一句是",
+            "options": {
+                "A": "如有不由此者，在執者去，衆以焉殃，是謂小康。",
+                "B": "子曰：敏而好學，不下恥問，是以謂之文也。",
+                "C": "是乃其所以千萬臣而無數者也。",
+                "D": "鑄名器，藏寶財，固民之殄病是待。"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:20:03"
+        },
+        {
+            "question_id": 13,
+            "question": "下列注音术语，不属于直音这种注音方式的是",
+            "options": {
+                "A": "讀輿某同",
+                "B": "讀爲",
+                "C": "讀曰",
+                "D": "讀若"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:20:08"
+        },
+        {
+            "question_id": 14,
+            "question": "按照传统的“六书”体例，“益”字应属",
+            "options": {
+                "A": "象形",
+                "B": "指事",
+                "C": "形声",
+                "D": "会意"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:12"
+        },
+        {
+            "question_id": 15,
+            "question": "著名民乐作品《十面埋伏》属于",
+            "options": {
+                "A": "管乐",
+                "B": "打击乐",
+                "C": "弹拨乐",
+                "D": "弦乐"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:18"
+        },
+        {
+            "question_id": 16,
+            "question": "审美的客体是",
+            "options": {
+                "A": "艺术受众",
+                "B": "艺术作品",
+                "C": "鉴赏者",
+                "D": "艺术家"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:23"
+        },
+        {
+            "question_id": 17,
+            "question": "吴带当风是指谁的绘画风格",
+            "options": {
+                "A": "曹不兴",
+                "B": "苏轼",
+                "C": "吴镇",
+                "D": "吴道子"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:28"
+        },
+        {
+            "question_id": 18,
+            "question": "话剧《龙须沟》的作者是",
+            "options": {
+                "A": "老舍",
+                "B": "曹禺",
+                "C": "夏衍",
+                "D": "洪深"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:33"
+        },
+        {
+            "question_id": 19,
+            "question": "《霓裳羽衣舞》是哪一时期宫廷乐舞。",
+            "options": {
+                "A": "汉",
+                "B": "宋",
+                "C": "元",
+                "D": "唐"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:37"
+        },
+        {
+            "question_id": 20,
+            "question": "以下星座天区内梅西叶天体最多的是",
+            "options": {
+                "A": "武仙座",
+                "B": "猎户座",
+                "C": "船尾座",
+                "D": "蛇夫座"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:42"
+        },
+        {
+            "question_id": 21,
+            "question": "以下哪个国家在本年度没有发射月球探测器的计划",
+            "options": {
+                "A": "印度",
+                "B": "日本",
+                "C": "俄罗斯",
+                "D": "以色列"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:47"
+        },
+        {
+            "question_id": 22,
+            "question": "梅西叶天体M44位于（）的天区内",
+            "options": {
+                "A": "巨蟹座",
+                "B": "大犬座",
+                "C": "金牛座",
+                "D": "猎户座"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:20:52"
+        },
+        {
+            "question_id": 23,
+            "question": "在金星西大距时，在金星上看到的地球处于",
+            "options": {
+                "A": "留",
+                "B": "上合",
+                "C": "方照",
+                "D": "冲"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:20:59"
+        },
+        {
+            "question_id": 24,
+            "question": "太阳的光谱型是",
+            "options": {
+                "A": "O型",
+                "B": "A型",
+                "C": "K型",
+                "D": "G型"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:03"
+        },
+        {
+            "question_id": 25,
+            "question": "商业伦理学最早出现在",
+            "options": {
+                "A": "英国",
+                "B": "法国",
+                "C": "美国",
+                "D": "意大利"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:07"
+        },
+        {
+            "question_id": 26,
+            "question": "伦理学的核心是",
+            "options": {
+                "A": "宗教伦理学",
+                "B": "描述伦理学",
+                "C": "元伦理学",
+                "D": "规范伦理学"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:12"
+        },
+        {
+            "question_id": 27,
+            "question": "下列不属于人的基本权利的时",
+            "options": {
+                "A": "人格平等",
+                "B": "独立",
+                "C": "生命",
+                "D": "自由"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:18"
+        },
+        {
+            "question_id": 28,
+            "question": "关税的课税客体是",
+            "options": {
+                "A": "进出境的货物",
+                "B": "消费者",
+                "C": "海关",
+                "D": "进出口商"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:22"
+        },
+        {
+            "question_id": 29,
+            "question": "区域经济从本质上讲是",
+            "options": {
+                "A": "商品经济",
+                "B": "一体化经济",
+                "C": "信用经济",
+                "D": "市场经济"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:27"
+        },
+        {
+            "question_id": 30,
+            "question": "假设“如果张楠和林枫不是志愿者，那么杨梅是志愿者”是前提，“林枫是志愿者”为结论。若要以上结论成立，需要补充的前提是",
+            "options": {
+                "A": "杨梅和张楠都是志愿者",
+                "B": "杨梅不是志愿者",
+                "C": "张楠是志愿者",
+                "D": "杨梅和张楠都不是志愿者"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:21:32"
+        },
+        {
+            "question_id": 31,
+            "question": "对侵害英雄烈士的姓名、肖像、名誉、荣誉的行为，有权向人民法院提起诉讼的主体是：a英雄烈士近亲属；b检察机关；c当地人民政府；d负责英雄烈士保护工作的部门",
+            "options": {
+                "A": "bd",
+                "B": "ac",
+                "C": "ab",
+                "D": "ad"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:37"
+        },
+        {
+            "question_id": 32,
+            "question": "下列说法错误的是",
+            "options": {
+                "A": "苏武牧羊的地点在今天的贝加尔湖一带",
+                "B": "东汉使者班超同时也是《汉书》的作者",
+                "C": "西汉张骞与唐代鉴真出行的方向不同",
+                "D": "成语“南橘北枳”是与晏婴出使楚国有关"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:41"
+        },
+        {
+            "question_id": 33,
+            "question": "日常生活中经常可以依据动物的某些行为预判天气，下列对应正确的是",
+            "options": {
+                "A": "蜻蜓低飞——雨天",
+                "B": "蚂蚁垒窝——晴天",
+                "C": "麻省囤食——雨天",
+                "D": "龟背冒汗——晴天"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:46"
+        },
+        {
+            "question_id": 34,
+            "question": "设计：修建：高楼",
+            "options": {
+                "A": "热爱：学习：书本",
+                "B": "痛恨：打击：仇敌",
+                "C": "勘探：开采：石油",
+                "D": "体检：判断：病人"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:51"
+        },
+        {
+            "question_id": 35,
+            "question": "夜间机动车通过照明条件良好的路段时，要怎样使用灯光",
+            "options": {
+                "A": "危险报警闪光灯",
+                "B": "近光灯",
+                "C": "远光灯",
+                "D": "前后雾灯"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:21:56"
+        },
+        {
+            "question_id": 36,
+            "question": "车辆临时靠边停车后准备起步时，应先怎样做",
+            "options": {
+                "A": "鸣喇叭",
+                "B": "加油起步",
+                "C": "提高发动机转速",
+                "D": "观察周围交通情况"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:01"
+        },
+        {
+            "question_id": 37,
+            "question": "安全头枕在发生追尾事故时，能有效保护驾驶人的什么部位",
+            "options": {
+                "A": "腰部",
+                "B": "颈部",
+                "C": "头部",
+                "D": "胸部"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:07"
+        },
+        {
+            "question_id": 38,
+            "question": "准驾车型为小型汽车的，可以驾驶下列哪种车辆",
+            "options": {
+                "A": "低速载货汽车",
+                "B": "轮式自行机械",
+                "C": "三轮摩托车",
+                "D": "中型客车"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:11"
+        },
+        {
+            "question_id": 39,
+            "question": "安全气囊是一种什么装置",
+            "options": {
+                "A": "防抱死制动系统",
+                "B": "电子制动力分配系统",
+                "C": "辅助驾乘人员保护系统",
+                "D": "驾驶人头颈保护系统"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:17"
+        },
+        {
+            "question_id": 40,
+            "question": "孔府菜的代表名菜有",
+            "options": {
+                "A": "诗礼银杏",
+                "B": "扒大乌参",
+                "C": "黄焖鱼翅",
+                "D": "清汤燕窝"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:22"
+        },
+        {
+            "question_id": 41,
+            "question": "下列不属于淮扬菜的是",
+            "options": {
+                "A": "三套鸭",
+                "B": "叫花鸡",
+                "C": "虾仁锅巴",
+                "D": "炸蛎黄"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:22:28"
+        },
+        {
+            "question_id": 42,
+            "question": "称奶食为“白食”，肉食为“红食”的是",
+            "options": {
+                "A": "壮族",
+                "B": "傣族",
+                "C": "回族",
+                "D": "蒙古族"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:32"
+        },
+        {
+            "question_id": 43,
+            "question": "“割不正不食”观念的提出者是",
+            "options": {
+                "A": "墨子",
+                "B": "孔子",
+                "C": "孟子",
+                "D": "老子"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:37"
+        },
+        {
+            "question_id": 44,
+            "question": "我国南方地区流行吃青团的节日是",
+            "options": {
+                "A": "中秋节",
+                "B": "春节",
+                "C": "腊八节",
+                "D": "清明节"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:42"
+        },
+        {
+            "question_id": 45,
+            "question": "20世纪70年代以来，中国积极融入世界，下列事件发生的先后顺序是：a恢复联合国的合法席位；b尼克松访华；c乒乓外交；d中美建交；e中日签署外交关系的联合声明",
+            "options": {
+                "A": "cabed",
+                "B": "acbde",
+                "C": "abcde",
+                "D": "cbade"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:47"
+        },
+        {
+            "question_id": 46,
+            "question": "亚非会议能取得成功的根本原因是",
+            "options": {
+                "A": "它没有殖民主义国家参加",
+                "B": "中国提出“求同存异”方针的推动",
+                "C": "亚非各国有团结反帝反殖的共同愿望",
+                "D": "亚非各国间不存在矛盾和分歧"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:51"
+        },
+        {
+            "question_id": 47,
+            "question": "以下哪个是是国家关系发展的必然结果和客观趋势?",
+            "options": {
+                "A": "单边主义",
+                "B": "强权政治",
+                "C": "霸权主义",
+                "D": "世界格局多极化"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:22:56"
+        },
+        {
+            "question_id": 48,
+            "question": "我国新时期的外交方针与政策有：a不结盟政策；b与周边国家建立友好关系；c一边倒与一大片；d对外开放",
+            "options": {
+                "A": "cd",
+                "B": "abc",
+                "C": "abd",
+                "D": "ac"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:02"
+        },
+        {
+            "question_id": 49,
+            "question": "1948年底到1949年初，中共中央确定了一个重要的外交方针，将承认问题由新政权的单向“被承认”变成与外国政府之间的双向相互承认。毛泽东把这一外交方针概括为",
+            "options": {
+                "A": "“打扫干净屋子再请客”",
+                "B": "“一边倒”",
+                "C": "“求同存异”",
+                "D": "“另起炉灶”"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:08"
+        },
+        {
+            "question_id": 50,
+            "question": "有位古代思想家认为：通过读书等外在手段来明理自然是好，但“不识一个字，亦须还我堂堂地做个人”，重要的是先确立仁义这一根本。这位思想家可能是",
+            "options": {
+                "A": "陆九渊",
+                "B": "董仲舒",
+                "C": "朱熹",
+                "D": "孔子"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:13"
+        },
+        {
+            "question_id": 51,
+            "question": "《读通鉴论》曰：“两端争胜，而徒为无益之论者，辨封建者是也。____，垂二千年而弗能改矣。”句中横线处应填入",
+            "options": {
+                "A": "郡县之制",
+                "B": "分封之制",
+                "C": "行省制度",
+                "D": "郡国并行"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:17"
+        },
+        {
+            "question_id": 52,
+            "question": "一个文弱书生最终成为驾驭干军万马的最高统帅，成就了“无湘不成军”的传奇，被誉为“中兴第一名臣”和“洋务派之父”。此人是",
+            "options": {
+                "A": "奕䜣",
+                "B": "曾国藩",
+                "C": "李鸿章",
+                "D": "左宗棠"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:23"
+        },
+        {
+            "question_id": 53,
+            "question": "有学者认为河南偃师二里头文化遗址是传说中的夏朝都邑。以下考古发现中，最有力的证据是",
+            "options": {
+                "A": "青铜礼器",
+                "B": "宫殿遗址",
+                "C": "石制农具",
+                "D": "家畜遗骨"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:27"
+        },
+        {
+            "question_id": 54,
+            "question": "晚清设立的一个机构，不仅办理外交事务，还扶植一些现代化项日，如新式学堂、近代企业等。它经常遭到守旧派抨击，外国人也批评它办事不力。该机构是",
+            "options": {
+                "A": "总理衙门",
+                "B": "同文馆",
+                "C": "外务部",
+                "D": "军机处"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:32"
+        },
+        {
+            "question_id": 55,
+            "question": "话剧《关汉卿》中的人物王著，其角色身份是",
+            "options": {
+                "A": "狱吏",
+                "B": "文人",
+                "C": "军官",
+                "D": "后台管事"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:37"
+        },
+        {
+            "question_id": 56,
+            "question": "《太阳下的风景》的作者黄永玉和沈从文的故乡都在",
+            "options": {
+                "A": "鄂西",
+                "B": "湘西",
+                "C": "赣南",
+                "D": "黔南"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:45"
+        },
+        {
+            "question_id": 57,
+            "question": "诗集《中国农村的故事》的作者是",
+            "options": {
+                "A": "田间",
+                "B": "艾青",
+                "C": "李季",
+                "D": "何其芳"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:49"
+        },
+        {
+            "question_id": 58,
+            "question": "郭沫若《凤凰涅磐》采用的诗体形式是",
+            "options": {
+                "A": "楼梯式",
+                "B": "自由体",
+                "C": "新格律诗",
+                "D": "民歌体"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:54"
+        },
+        {
+            "question_id": 59,
+            "question": "长篇小说《京华烟云》的作者是",
+            "options": {
+                "A": "丁玲",
+                "B": "柔石",
+                "C": "林语堂",
+                "D": "老舍"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:23:58"
+        },
+        {
+            "question_id": 60,
+            "question": "以下选项中的概念关系，与“土豆”和“马铃薯”一致的是",
+            "options": {
+                "A": "坦克一战车",
+                "B": "萝卜—青萝卜",
+                "C": "录音机—录音笔",
+                "D": "番茄一西红柿"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:02"
+        },
+        {
+            "question_id": 61,
+            "question": "提出“泛智”教育思想，探讨“把一切事物教给一切人类的全部艺术”的教育家是",
+            "options": {
+                "A": "特尔巴特",
+                "B": "赞可夫",
+                "C": "夸美纽斯",
+                "D": "布鲁纳"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:08"
+        },
+        {
+            "question_id": 62,
+            "question": "教师不能满足“授之以鱼”，更要做到“授人以渔”。这强调教学应重视",
+            "options": {
+                "A": "培养个性",
+                "B": "传授知识",
+                "C": "发展能力",
+                "D": "形成品德"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:13"
+        },
+        {
+            "question_id": 63,
+            "question": "一般说来，制约教育发展规模，速度和教育结构的根本性因素是",
+            "options": {
+                "A": "生产力发转水平",
+                "B": "人口数量和质量",
+                "C": "政治经济制度",
+                "D": "社会意识形态"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:18"
+        },
+        {
+            "question_id": 64,
+            "question": "古人有称名、称字、称官职、称籍贯以及称谥号等习惯。有些诗文中称岳飞为“岳武穆”，“武穆”是",
+            "options": {
+                "A": "籍贯",
+                "B": "表字",
+                "C": "官职",
+                "D": "谥号"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:22"
+        },
+        {
+            "question_id": 65,
+            "question": "年龄大、合并症多、预期寿命短的股骨颈骨折患者，首选的治疗是",
+            "options": {
+                "A": "半髋关节置换术",
+                "B": "切开复位+内固定",
+                "C": "手法复位+内固定",
+                "D": "全髋关节置换术"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:27"
+        },
+        {
+            "question_id": 66,
+            "question": "革兰阴性菌所致脓毒症的临床特点是",
+            "options": {
+                "A": "常并发休克",
+                "B": "常继发于骨关节感染",
+                "C": "常形成转移性脓肿",
+                "D": "常出现结膜瘀斑"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:32"
+        },
+        {
+            "question_id": 67,
+            "question": "下列符合原发免疫性血小板减少症的检查结果的有",
+            "options": {
+                "A": "BT和APTT延长",
+                "B": "血小板平均体积偏小",
+                "C": "骨髓巨核细胞数量减少",
+                "D": "骨髓巨核细胞体积变小"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:36"
+        },
+        {
+            "question_id": 68,
+            "question": "限制型心肌病的主要表现是",
+            "options": {
+                "A": "右心衰症状",
+                "B": "SAM征",
+                "C": "奇脉",
+                "D": "室壁运动普遍减弱"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:41"
+        },
+        {
+            "question_id": 69,
+            "question": "急性肾损伤进展期的主要死亡原因是",
+            "options": {
+                "A": "感染",
+                "B": "代谢性酸中毒",
+                "C": "水中毒",
+                "D": "低钾血症"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:24:48"
+        },
+        {
+            "question_id": 70,
+            "question": "在三淢因模型中给出 $\\mu_x^{(j)}=0.2 j， j=1，2，3$， 则 $q_x^{(2)}=()$ 。",
+            "options": {
+                "A": 0.23,
+                "B": 0.33,
+                "C": 0.03,
+                "D": 0.13
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:24:52"
+        },
+        {
+            "question_id": 71,
+            "question": "已知现年 18 岁的王先生， 再生存 10 年的概率为 0.95 ， 再生存 30 年的概率为 0.75 ， 则 其现年 28 岁在达到 48 岁之前的死亡概率为 ( )。",
+            "options": {
+                "A": 0.2409,
+                "B": 0.2503,
+                "C": 0.2308,
+                "D": 0.2105
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:24:58"
+        },
+        {
+            "question_id": 72,
+            "question": "某汽车一年内发生车祸次数服从混合泊松分布， 参数 $\\lambda$ 服从 $(0，6)$ 上的均匀分布。那 么， 该汽车一年内发生车祸的次数不超过 1 次的概率为 ( )。",
+            "options": {
+                "A": 0.41,
+                "B": 0.39,
+                "C": 0.33,
+                "D": 0.37
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:25:03"
+        },
+        {
+            "question_id": 73,
+            "question": "已知 $S(x)=1-\\frac{x}{100}， 0 \\leqslant x \\leqslant 100$， 则 $f_{30}=(\\quad)$ 。",
+            "options": {
+                "A": 0.8,
+                "B": 0.7,
+                "C": 0.5,
+                "D": 0.6
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:25:08"
+        },
+        {
+            "question_id": 74,
+            "question": "已知 ${ }_s p_{10}=0.4$， 且 $\\mu_x=0.01+b x， x \\geqslant 0$， 则 $b$ 等于 $(\\quad$ 。",
+            "options": {
+                "A": -0.05,
+                "B": -0.014,
+                "C": 0.005,
+                "D": 0.014
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:25:14"
+        },
+        {
+            "question_id": 75,
+            "question": "教育的本体功能是什么? ()",
+            "options": {
+                "A": "社会功能",
+                "B": "经济功能",
+                "C": "政治功能",
+                "D": "育人功能"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:25:19"
+        },
+        {
+            "question_id": 76,
+            "question": "春秋时期出现的中国教育发展史上里程碑式的学校教育制度是 ()",
+            "options": {
+                "A": "私学",
+                "B": "国学",
+                "C": "太学",
+                "D": "乡学"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:25:24"
+        },
+        {
+            "question_id": 77,
+            "question": "我国学校教育大约出现在()。",
+            "options": {
+                "A": "奴隶社会初期",
+                "B": "奴隶社会末期",
+                "C": "原始社会初期",
+                "D": "封建社会初期"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:25:29"
+        },
+        {
+            "question_id": 78,
+            "question": "鲁迅在“三味书屋”所接触到的办学形式在我国最早兴盛于()",
+            "options": {
+                "A": "秦汉",
+                "B": "盛唐",
+                "C": "春秋战国",
+                "D": "商周"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:25:33"
+        },
+        {
+            "question_id": 79,
+            "question": "在古代文献记载中，我国西周时期设在王都的小学和大学，总称为()",
+            "options": {
+                "A": "都学",
+                "B": "乡学",
+                "C": "官学",
+                "D": "国学"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:25:38"
+        },
+        {
+            "question_id": 80,
+            "question": "水道断面面积包括 ( )",
+            "options": {
+                "A": "大断面",
+                "B": "过水断面面积和死水面积",
+                "C": "死水面积",
+                "D": "过水断面面积"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:25:42"
+        },
+        {
+            "question_id": 81,
+            "question": "流域围湖造田和填湖造田，将使流域蒸发[ ]。",
+            "options": {
+                "A": "不变",
+                "B": "增加",
+                "C": "难以肯定",
+                "D": "减少"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:25:47"
+        },
+        {
+            "question_id": 82,
+            "question": "水位观测的精度一般准确到 ()",
+            "options": {
+                "A": "0.01m",
+                "B": "0.lm",
+                "C": "1m",
+                "D": "0.001m"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:25:51"
+        },
+        {
+            "question_id": 83,
+            "question": "用浮标法测流，断面流量等于断面徐流量再乘以()",
+            "options": {
+                "A": "风速",
+                "B": "糙率",
+                "C": "浮标系数",
+                "D": "水位"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:25:56"
+        },
+        {
+            "question_id": 84,
+            "question": "一般情况下，某一地点的露点温度将比当地当时的气温[ ]。",
+            "options": {
+                "A": "高",
+                "B": "低",
+                "C": "相等",
+                "D": "高或相等"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:26:01"
+        },
+        {
+            "question_id": 85,
+            "question": "根据物权法规定，土地承包经营权的设立时间是",
+            "options": {
+                "A": "土地承包经营权登记时",
+                "B": "取得土地承包经营权证时",
+                "C": "土地承包经营权合同生效时",
+                "D": "土地承包经营权合同成立时"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:26:06"
+        },
+        {
+            "question_id": 86,
+            "question": "以下选项中，属于邻接权客体的是",
+            "options": {
+                "A": "具有独特造型的建筑物",
+                "B": "计算机软件",
+                "C": "即兴演讲",
+                "D": "瑜伽录像制品"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:26:10"
+        },
+        {
+            "question_id": 87,
+            "question": "下列行为如满足规定条件，应认定为伪造货币罪的是",
+            "options": {
+                "A": "将英镑揭层一分为二",
+                "B": "铸造珍稀古钱币",
+                "C": "临摹欧元收藏",
+                "D": "用黄金铸造流通的纪念金币"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:26:15"
+        },
+        {
+            "question_id": 88,
+            "question": "不作为犯罪的主观方面",
+            "options": {
+                "A": "只能是过失",
+                "B": "不要求故意及过失",
+                "C": "只能是故意",
+                "D": "可以是故意也可以是过失"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:26:20"
+        },
+        {
+            "question_id": 89,
+            "question": "下列选项中，构成原物与孳息关系的是",
+            "options": {
+                "A": "果树与果树上的果实",
+                "B": "水库与水库里的鱼",
+                "C": "母牛与其产下的牛犊",
+                "D": "名画原件与其复制品"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:26:25"
+        },
+        {
+            "question_id": 90,
+            "question": "若f(x) 在 (a，b) 内单调有界， 则 f(x) 在 (a，b) 内间断点的类型只能是 ( ).",
+            "options": {
+                "A": "第一类间断点",
+                "B": "既有第一类间断点也有第二类间断点",
+                "C": "结论不确定",
+                "D": "第二类间断点"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:26:29"
+        },
+        {
+            "question_id": 91,
+            "question": "函数 $f(x)=\\frac{x-x^3}{\\sin \\pi x}$ 的可去间断点个数为.",
+            "options": {
+                "A": "1",
+                "B": "无穷多个",
+                "C": "3",
+                "D": "2"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:26:37"
+        },
+        {
+            "question_id": 92,
+            "question": "若 $f(x)$ 的导函数是 $2^x(\\ln 2)^2$， 则 $f(x)$ 为 ( ).",
+            "options": {
+                "A": "$\\frac{1}{\\ln 2} \\cdot 2^x+C$",
+                "B": "$2^x(\\ln 2)^2+C$",
+                "C": "$2^x+C$",
+                "D": "$2^x \\ln 2+C$"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "C",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:26:41"
+        },
+        {
+            "question_id": 93,
+            "question": "设f(x)和F(x)分别为连续型随机变量X的概率密度和分布函数， 则下列函数 中可作为某随机变量的概率密度的是 . (多选)",
+            "options": {
+                "A": "f(-x)",
+                "B": "f(x)F(x)",
+                "C": "f(2x)",
+                "D": "2xf(x^2)"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:26:46"
+        },
+        {
+            "question_id": 94,
+            "question": "设是 $f(x)$ 偶函数， $\\varphi(x)$ 是奇函数， 则下列函数(假设都有意义)中是奇函数的是 ( ).",
+            "options": {
+                "A": "$f[f(x)]$",
+                "B": "$\\varphi[\\varphi(x)]$",
+                "C": "$\\varphi[f(x)]$",
+                "D": "$f[\\varphi(x)]$"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:26:50"
+        },
+        {
+            "question_id": 95,
+            "question": "只有各年龄组的发病率资料，用()方法计算标化发病率。",
+            "options": {
+                "A": "倒求法",
+                "B": "间接法",
+                "C": "直接法",
+                "D": "等比法"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:26:55"
+        },
+        {
+            "question_id": 96,
+            "question": "间接标准化法计算标化死亡率是：",
+            "options": {
+                "A": "SIR×标准人口总数",
+                "B": "SMR×标准人口死亡率",
+                "C": "SIR×标准人口死亡率",
+                "D": "SMR×标准人口总数"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:26:59"
+        },
+        {
+            "question_id": 97,
+            "question": "抽样误差是由:",
+            "options": {
+                "A": "采样结果不准引起",
+                "B": "测量引起",
+                "C": "计算引起",
+                "D": "抽样引起"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:04"
+        },
+        {
+            "question_id": 98,
+            "question": "SMR 为：",
+            "options": {
+                "A": "预期死亡数/实际死亡数",
+                "B": "预期发病数/实际发病数",
+                "C": "实际发病数/预期发病数",
+                "D": "实际死亡数/预期死亡数"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:08"
+        },
+        {
+            "question_id": 99,
+            "question": "观察何种疾病死因是造成当地居民死亡的主要死因，用",
+            "options": {
+                "A": "死亡率",
+                "B": "疾病别死亡率",
+                "C": "某病病死率",
+                "D": "死因构成比"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:13"
+        },
+        {
+            "question_id": 100,
+            "question": "胃蠕动开始的部位是在",
+            "options": {
+                "A": "胃中部",
+                "B": "胃贲门部",
+                "C": "胃幽门部",
+                "D": "胃窦"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:27:18"
+        },
+        {
+            "question_id": 101,
+            "question": "可使胞质内cAMP水平增高的酶是",
+            "options": {
+                "A": "磷酸酶",
+                "B": "腺苷酸环化酶",
+                "C": "磷脂酶",
+                "D": "磷酸二酯酶"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:23"
+        },
+        {
+            "question_id": 102,
+            "question": "与线粒体内膜结合疏松容易被提取分离的细胞色素是",
+            "options": {
+                "A": "B",
+                "B": "C",
+                "C": "P450",
+                "D": "AA3"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:27"
+        },
+        {
+            "question_id": 103,
+            "question": "在糖的有氧化过程，有几次底物水平磷酸化",
+            "options": {
+                "A": "3",
+                "B": "1",
+                "C": "4",
+                "D": "2"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:27:32"
+        },
+        {
+            "question_id": 104,
+            "question": "胆汁中于消化有关的是",
+            "options": {
+                "A": "胆盐",
+                "B": "胆绿素",
+                "C": "胆色素",
+                "D": "胆固醇"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:37"
+        },
+        {
+            "question_id": 105,
+            "question": "关系数据库中的数据逻辑结构是",
+            "options": {
+                "A": "树形结构",
+                "B": "⼆维表格",
+                "C": "层次结构",
+                "D": "⽹状结构"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:42"
+        },
+        {
+            "question_id": 106,
+            "question": "下⾯属于端系统之间的协议是",
+            "options": {
+                "A": "ARP ",
+                "B": "IP",
+                "C": "TCP",
+                "D": "PPP"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:47"
+        },
+        {
+            "question_id": 107,
+            "question": "下列选项中，不属于线性结构的是",
+            "options": {
+                "A": "线性表 ",
+                "B": "栈",
+                "C": "队列",
+                "D": "⽹"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:52"
+        },
+        {
+            "question_id": 108,
+            "question": "RAM代表的是",
+            "options": {
+                "A": "随机存储器 ",
+                "B": "软盘存储器 ",
+                "C": "只读存储器 ",
+                "D": "⾼速缓存器 "
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:27:57"
+        },
+        {
+            "question_id": 109,
+            "question": "算法的基本结构中不包括",
+            "options": {
+                "A": "选择结构 ",
+                "B": "循环结构 ",
+                "C": "顺序结构 ",
+                "D": "逻辑结构"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:01"
+        },
+        {
+            "question_id": 110,
+            "question": "2003年上半年发生的较有影响的计算机及网络病毒是什么",
+            "options": {
+                "A": "SQL杀手蠕虫",
+                "B": "SARS",
+                "C": "手机病毒",
+                "D": "小球病毒"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:09"
+        },
+        {
+            "question_id": 111,
+            "question": "以下不属于网络安全控制技术的是",
+            "options": {
+                "A": "数据备份与容灾技术",
+                "B": "入侵检测技术",
+                "C": "防火墙技术",
+                "D": "访问控制技术"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:13"
+        },
+        {
+            "question_id": 112,
+            "question": "人为的安全威胁包括主动攻击和被动攻击，以下属于被动攻击的是",
+            "options": {
+                "A": "拒绝服务攻击",
+                "B": "流量分析",
+                "C": "后门",
+                "D": "特洛伊木马"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:19"
+        },
+        {
+            "question_id": 113,
+            "question": "以下选项中，不属于生物识别方法的是",
+            "options": {
+                "A": "人脸识别",
+                "B": "掌纹识别",
+                "C": "个人标记号识别",
+                "D": "指纹识别"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:26"
+        },
+        {
+            "question_id": 114,
+            "question": "信息网络安全的第一个时代",
+            "options": {
+                "A": "世纪之交",
+                "B": "九十年代中叶前",
+                "C": "专网时代",
+                "D": "九十年代中叶"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:30"
+        },
+        {
+            "question_id": 115,
+            "question": "一平面简谐波在弹性媒质中传播，在某一瞬时，媒质中某质元正处于平衡位置，此时它的能量是",
+            "options": {
+                "A": "动能为零，势能为零",
+                "B": "动能最大，势能为零",
+                "C": "动能为零，势能最大",
+                "D": "动能最大，势能最大"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:35"
+        },
+        {
+            "question_id": 116,
+            "question": "一质点在光滑平面上，在外力作用下沿某一曲线运动，若突然将外力撤消，则该质点将作",
+            "options": {
+                "A": "停止运动",
+                "B": "匀速直线运动",
+                "C": "减速运动",
+                "D": "匀速率曲线运动"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:39"
+        },
+        {
+            "question_id": 117,
+            "question": "下列关于重力概念的说法中，正确的是",
+            "options": {
+                "A": "重力方向总是垂直于物体的支持面",
+                "B": "粉笔在使用时，质量变小，重力变小",
+                "C": "重力不随物体位置变化而变化",
+                "D": "空间向上飘的气球没有受到重力"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:44"
+        },
+        {
+            "question_id": 118,
+            "question": "关于简谐振动，下列说法中正确的是",
+            "options": {
+                "A": "质点在平衡位置处，振动的速度为零",
+                "B": "质点在最大位移处，振动的速度最大",
+                "C": "同一周期内没有两个完全相同的振动状态",
+                "D": "质点在最大位移处，动能最大"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:28:49"
+        },
+        {
+            "question_id": 119,
+            "question": "电路中能产生持续电流的条件是",
+            "options": {
+                "A": "电路中有电源，还要形成通路",
+                "B": "电路中有用电器",
+                "C": "电路中有开关",
+                "D": "电路中有电源"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:55"
+        },
+        {
+            "question_id": 120,
+            "question": "下列溶剂中能将沥青裂解蒸馏出的油分完全溶解的溶剂是",
+            "options": {
+                "A": "乙醇",
+                "B": "工业酒精",
+                "C": "石油醚",
+                "D": "乙醚"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:28:59"
+        },
+        {
+            "question_id": 121,
+            "question": "路面厚度评定的否决指标是",
+            "options": {
+                "A": "单点合格值",
+                "B": "厚度代表值",
+                "C": "厚度平均值",
+                "D": "单点极值"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:29:05"
+        },
+        {
+            "question_id": 122,
+            "question": "下列水泵中、可以连续给液体施加能量的是",
+            "options": {
+                "A": "活塞泵",
+                "B": "轴流泵",
+                "C": "射流泵",
+                "D": "齿轮泵"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:29:10"
+        },
+        {
+            "question_id": 123,
+            "question": "路面沥青层渗水系数宜在什么时间进行测定",
+            "options": {
+                "A": "交工验收前",
+                "B": "交工验收后",
+                "C": "碾压成型后",
+                "D": "通车一年后"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:29:14"
+        },
+        {
+            "question_id": 124,
+            "question": "悬臂式和锚定式挡土墙属于",
+            "options": {
+                "A": "重力式",
+                "B": "桩、墙式",
+                "C": "固定式",
+                "D": "扶壁式"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:29:19"
+        },
+        {
+            "question_id": 125,
+            "question": "根据消费函数，随着收入增长，消费将",
+            "options": {
+                "A": "增长更大份额",
+                "B": "增长较小份额",
+                "C": "增长相同份额",
+                "D": "下降较小份额"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:29:24"
+        },
+        {
+            "question_id": 126,
+            "question": "在新产品定价时的渗透定价策略是指",
+            "options": {
+                "A": "价格定得很低",
+                "B": "价格定得较低",
+                "C": "价格定得很高",
+                "D": "价格定得较高"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:29:29"
+        },
+        {
+            "question_id": 127,
+            "question": "可以用于企业决策基础的是",
+            "options": {
+                "A": "经济利润",
+                "B": "最大利润",
+                "C": "会计利润",
+                "D": "正常利润"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:29:34"
+        },
+        {
+            "question_id": 128,
+            "question": "当边际产量为零时",
+            "options": {
+                "A": "平均产量为零",
+                "B": "平均产量最大",
+                "C": "总产量最大",
+                "D": "总产量为零"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:29:40"
+        },
+        {
+            "question_id": 129,
+            "question": "当需求的收入弹性为正值时，则这种产品应为",
+            "options": {
+                "A": "低档货",
+                "B": "高档货",
+                "C": "都有可能",
+                "D": "正常货"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:29:45"
+        },
+        {
+            "question_id": 130,
+            "question": "以下不属于职业教育课程模式特点的是",
+            "options": {
+                "A": "多样性",
+                "B": "共适性",
+                "C": "直接性",
+                "D": "应变性"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:29:50"
+        },
+        {
+            "question_id": 131,
+            "question": "学科课程的代表人物是",
+            "options": {
+                "A": "赫尔巴特",
+                "B": "赞可夫",
+                "C": "布鲁纳",
+                "D": "罗杰斯"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:29:54"
+        },
+        {
+            "question_id": 132,
+            "question": "职业学校的中心工作是",
+            "options": {
+                "A": "校风建设",
+                "B": "学风建设",
+                "C": "师资队伍建设",
+                "D": "专业建设"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:29:59"
+        },
+        {
+            "question_id": 133,
+            "question": "下级的意见和信息向上级反映叫作哪种沟通",
+            "options": {
+                "A": "下行",
+                "B": "上行",
+                "C": "平行",
+                "D": "正式"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:03"
+        },
+        {
+            "question_id": 134,
+            "question": "在我国最早的管理学家是",
+            "options": {
+                "A": "老子",
+                "B": "荀子",
+                "C": "孟子",
+                "D": "孔子"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:30:07"
+        },
+        {
+            "question_id": 135,
+            "question": "在跳闸命令和合闸命令同时存在时，应保证",
+            "options": {
+                "A": "跳闸",
+                "B": "不动",
+                "C": "连续动作",
+                "D": "合闸"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:11"
+        },
+        {
+            "question_id": 136,
+            "question": "力对物体的作用效果是",
+            "options": {
+                "A": "转动",
+                "B": "作功",
+                "C": "平移和转动",
+                "D": "移动"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:16"
+        },
+        {
+            "question_id": 137,
+            "question": "与变压器气体继电器连接油管的坡度为",
+            "options": {
+                "A": "1%-5%",
+                "B": "13%",
+                "C": "2%-4%",
+                "D": "5%"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:20"
+        },
+        {
+            "question_id": 138,
+            "question": "钳形电流表中的电流互感器（）一次线圈。",
+            "options": {
+                "A": "无",
+                "B": "有5匝",
+                "C": "有3匝",
+                "D": "有1匝"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:25"
+        },
+        {
+            "question_id": 139,
+            "question": "硅钢片中含硅量愈高，其可塑性就",
+            "options": {
+                "A": "愈小",
+                "B": "不一定变",
+                "C": "愈大",
+                "D": "不变"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:32"
+        },
+        {
+            "question_id": 140,
+            "question": "“及时当勉励，岁月不待人”是谁的名句",
+            "options": {
+                "A": "苏轼",
+                "B": "白居易",
+                "C": "辛弃疾",
+                "D": "陶渊明"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:37"
+        },
+        {
+            "question_id": 141,
+            "question": "成语“一衣带水”中的“水”原指",
+            "options": {
+                "A": "黄河",
+                "B": "淮河",
+                "C": "长江 ",
+                "D": "海河"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:42"
+        },
+        {
+            "question_id": 142,
+            "question": "“入木三分”这个成语原本是用来形容什么的",
+            "options": {
+                "A": "书法",
+                "B": "文章",
+                "C": "舞蹈",
+                "D": "画作"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:49"
+        },
+        {
+            "question_id": 143,
+            "question": "中国历史上被誉为“药王“的是",
+            "options": {
+                "A": "孙思邈",
+                "B": "扁鹊",
+                "C": "华佗",
+                "D": "李时珍"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:53"
+        },
+        {
+            "question_id": 144,
+            "question": "孔子弟子中擅长做生意的是谁",
+            "options": {
+                "A": "子贡",
+                "B": "子路",
+                "C": "颜回",
+                "D": "子张"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:30:58"
+        },
+        {
+            "question_id": 145,
+            "question": "我们经常吃的洋葱是植物的哪一部分",
+            "options": {
+                "A": "茎",
+                "B": "叶",
+                "C": "根 ",
+                "D": "果实"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:31:03"
+        },
+        {
+            "question_id": 146,
+            "question": "世界上地势最低的国家是",
+            "options": {
+                "A": "土耳其",
+                "B": "意大利",
+                "C": "荷兰 ",
+                "D": "波兰"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:07"
+        },
+        {
+            "question_id": 147,
+            "question": "有“绿城” 之称的是",
+            "options": {
+                "A": "郑州",
+                "B": "贵州",
+                "C": "昆明",
+                "D": "海口"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "C",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:31:13"
+        },
+        {
+            "question_id": 148,
+            "question": "世界上产玉米最多的国家是",
+            "options": {
+                "A": "法国",
+                "B": "俄罗撕",
+                "C": "中国",
+                "D": "美国"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:18"
+        },
+        {
+            "question_id": 149,
+            "question": "交通事故报警电话号码是",
+            "options": {
+                "A": "110",
+                "B": "119",
+                "C": "120",
+                "D": "122"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:22"
+        },
+        {
+            "question_id": 150,
+            "question": "下列不属于获取信息的途径是",
+            "options": {
+                "A": "思考",
+                "B": "看电视",
+                "C": "讨论",
+                "D": "看报纸"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:27"
+        },
+        {
+            "question_id": 151,
+            "question": "以下用于输出音频信息的设备是",
+            "options": {
+                "A": "音箱",
+                "B": "显示器",
+                "C": "打印机",
+                "D": "绘图仪"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:32"
+        },
+        {
+            "question_id": 152,
+            "question": "计算机处理信息时， 一个英文字母占用的字节数是",
+            "options": {
+                "A": "1",
+                "B": "2",
+                "C": "4",
+                "D": "8"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:37"
+        },
+        {
+            "question_id": 153,
+            "question": "计算机断电后， 信息会消失的存储器是",
+            "options": {
+                "A": "RAM",
+                "B": "硬盘",
+                "C": "光盘",
+                "D": "软盘"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:41"
+        },
+        {
+            "question_id": 154,
+            "question": "在微型计算机中，CPU的名称是",
+            "options": {
+                "A": "控制器",
+                "B": "运算器",
+                "C": "中央处理器",
+                "D": "内存"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:46"
+        },
+        {
+            "question_id": 155,
+            "question": "下列算式中，结果与 不相等的是",
+            "options": {
+                "A": "0.2÷0.5 ",
+                "B": "4÷10",
+                "C": "16÷40 ",
+                "D": "20÷500 "
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:51"
+        },
+        {
+            "question_id": 156,
+            "question": "集合A={1，2,3, 4}的真⼦集个数为",
+            "options": {
+                "A": "14",
+                "B": "10",
+                "C": "11",
+                "D": "15"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:31:56"
+        },
+        {
+            "question_id": 157,
+            "question": "当X=[ ]时，5X-9=51",
+            "options": {
+                "A": "60",
+                "B": "8.4",
+                "C": "12",
+                "D": "1"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:32:01"
+        },
+        {
+            "question_id": 158,
+            "question": "下⾯的数与0最接近的⼀个数是",
+            "options": {
+                "A": "-1",
+                "B": "-5",
+                "C": "+5",
+                "D": "+2"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:32:05"
+        },
+        {
+            "question_id": 159,
+            "question": "做⼀个圆柱形通⻛管要⽤多少铁⽪是求",
+            "options": {
+                "A": "表⾯积",
+                "B": "底⾯积 ",
+                "C": "体积 ",
+                "D": "侧⾯积 "
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:32:18"
+        },
+        {
+            "question_id": 160,
+            "question": "我国共有多少个少数民族",
+            "options": {
+                "A": "50",
+                "B": "56",
+                "C": "55",
+                "D": "51"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:32:22"
+        },
+        {
+            "question_id": 161,
+            "question": "赶年是（）的传统节日",
+            "options": {
+                "A": "土家族",
+                "B": "苗族",
+                "C": "侗族",
+                "D": "瑶族"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:32:26"
+        },
+        {
+            "question_id": 162,
+            "question": "下列民族中哪个民族是新中国成立后更改族称的",
+            "options": {
+                "A": "保安族",
+                "B": "普米族",
+                "C": "基诺族",
+                "D": "德昂族"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:32:31"
+        },
+        {
+            "question_id": 163,
+            "question": "民族发展的决定性因素是",
+            "options": {
+                "A": "社会生产力的发展",
+                "B": "阶级斗争",
+                "C": "经济发展",
+                "D": "民族精神"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:32:35"
+        },
+        {
+            "question_id": 164,
+            "question": "“抓饭”是（）的特色饮食",
+            "options": {
+                "A": "藏族",
+                "B": "维吾尔族",
+                "C": "苗族",
+                "D": "朝鲜族"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:32:40"
+        },
+        {
+            "question_id": 165,
+            "question": "全身黄染是食用（）过量",
+            "options": {
+                "A": "维生素A",
+                "B": "维生素D",
+                "C": "维生素B",
+                "D": "维生素C"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:32:46"
+        },
+        {
+            "question_id": 166,
+            "question": "渗毒性强的是",
+            "options": {
+                "A": "赭曲霉毒素",
+                "B": "黄曲霉毒素",
+                "C": "展青霉素",
+                "D": "橘青霉素"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:32:50"
+        },
+        {
+            "question_id": 167,
+            "question": "速冻烹饪食品和蔬菜在解冻时宜采用",
+            "options": {
+                "A": "沸水",
+                "B": "以上全部",
+                "C": "热油",
+                "D": "微波解冻"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:32:55"
+        },
+        {
+            "question_id": 168,
+            "question": "泡沫干燥的产品的特点具有",
+            "options": {
+                "A": "价格低",
+                "B": "产品发泡",
+                "C": "密度高",
+                "D": "速溶"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:33:00"
+        },
+        {
+            "question_id": 169,
+            "question": "蛋白质在人体中的功能不包括",
+            "options": {
+                "A": "转运",
+                "B": "储存能量",
+                "C": "酶",
+                "D": "贮存"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:05"
+        },
+        {
+            "question_id": 170,
+            "question": "基因型为AaBBCc的个体所产生的配子种类有",
+            "options": {
+                "A": "4种",
+                "B": "2种",
+                "C": "6种",
+                "D": "8种"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:09"
+        },
+        {
+            "question_id": 171,
+            "question": "组成核酸的核苷酸和碱基各有几种",
+            "options": {
+                "A": "8种和5种",
+                "B": "4种和5种",
+                "C": "4种和4种",
+                "D": "8种和8种"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:16"
+        },
+        {
+            "question_id": 172,
+            "question": "以下哪些因素可以导致染色体畸变",
+            "options": {
+                "A": "辐射",
+                "B": "化学物质",
+                "C": "以上所有",
+                "D": "正常细胞的生物化学反应"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:21"
+        },
+        {
+            "question_id": 173,
+            "question": "四倍体细胞具有",
+            "options": {
+                "A": "4条染色体",
+                "B": "4个核",
+                "C": "每条染色体具有4个拷贝",
+                "D": "4对染色体"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:26"
+        },
+        {
+            "question_id": 174,
+            "question": "结果导致DNA数量增加的染色体畸变是哪一种",
+            "options": {
+                "A": "A和C均是",
+                "B": "倒位",
+                "C": "重复",
+                "D": "缺失"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:30"
+        },
+        {
+            "question_id": 175,
+            "question": "墨西哥影响最大的报纸是",
+            "options": {
+                "A": "《至上报》",
+                "B": "《墨西哥太阳报》",
+                "C": "《墨西哥先驱报》",
+                "D": "《日报》"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:35"
+        },
+        {
+            "question_id": 176,
+            "question": "目前德国最有影响的新闻周刊是",
+            "options": {
+                "A": "《经济学家》",
+                "B": "《时代》",
+                "C": "《财富》",
+                "D": "《明镜》"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:41"
+        },
+        {
+            "question_id": 177,
+            "question": "克林顿政府对外政策的三大支柱之一是什么",
+            "options": {
+                "A": "经济安全",
+                "B": "社会安全",
+                "C": "科技安全",
+                "D": "国家安全"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:46"
+        },
+        {
+            "question_id": 178,
+            "question": "从政体上讲，美国是哪种形式的共和制",
+            "options": {
+                "A": "两党制",
+                "B": "总统制",
+                "C": "邦联制",
+                "D": "联邦制"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:50"
+        },
+        {
+            "question_id": 179,
+            "question": "战后下列美国总统中属于共和党的是哪一位",
+            "options": {
+                "A": "克林顿",
+                "B": "杜鲁门",
+                "C": "卡特",
+                "D": "艾森豪威尔"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:33:55"
+        },
+        {
+            "question_id": 180,
+            "question": "给健康大鼠静脉注射大量的低渗食盐水后，下列变化合理的是",
+            "options": {
+                "A": "大鼠的排尿量增加",
+                "B": "细胞外液渗透压升高",
+                "C": "肾小管重吸收水能力增强",
+                "D": "胰岛B细胞分泌胰岛素增加"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:00"
+        },
+        {
+            "question_id": 181,
+            "question": "下列生理活动与生物膜无关的是",
+            "options": {
+                "A": "tRNA携带氨基酸进入核糖体",
+                "B": "[H]和氧气结合生成水",
+                "C": "唾液腺细胞分泌唾液淀粉酶",
+                "D": "神经递质释放到突触间隙"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:05"
+        },
+        {
+            "question_id": 182,
+            "question": "将一株质量为20 g的黄瓜幼苗栽种在光照等适宜的环境中，一段时间后植株达到40 g，其增加的质量来自于",
+            "options": {
+                "A": "光、矿质元素和水",
+                "B": "水、矿质元素和土壤",
+                "C": "水、矿质元素和空气",
+                "D": "光、矿质元素和空气"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:11"
+        },
+        {
+            "question_id": 183,
+            "question": "关于蛋白质的叙述，错误的是",
+            "options": {
+                "A": "DNA和蛋白质是染色体的组成成分",
+                "B": "核糖体上合成的蛋白质不能在细胞核中发挥作用",
+                "C": "人体血浆中含有浆细胞分泌的蛋白质",
+                "D": "rRNA能参与蛋白质的生物合成"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:15"
+        },
+        {
+            "question_id": 184,
+            "question": "下列关于细胞凋亡的叙述，错误的是",
+            "options": {
+                "A": "被病原体感染的细胞可通过细胞凋亡清除",
+                "B": "细胞凋亡也称为细胞编程性死亡",
+                "C": "细胞凋亡不出现在胚胎发育过程中",
+                "D": "细胞凋亡受细胞自身基因的调控"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:21"
+        },
+        {
+            "question_id": 185,
+            "question": "分子式为C4H8Cl2的同分异构体有(不考虑立体异构)",
+            "options": {
+                "A": "10种",
+                "B": "7种",
+                "C": "9种",
+                "D": "8种"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:25"
+        },
+        {
+            "question_id": 186,
+            "question": "中华民族的发明创造为人类文明进步做出了巨大贡献。下列我国古代发明中，不涉及化学反应的是",
+            "options": {
+                "A": "湿法炼铜",
+                "B": "烧结粘土制陶瓷",
+                "C": "打磨磁石制指南针",
+                "D": "铁的冶炼"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:32"
+        },
+        {
+            "question_id": 187,
+            "question": "下列物质性质与应用对应关系正确的是",
+            "options": {
+                "A": "氧化铁能与酸反应，可用于是制作红色涂料",
+                "B": "漂白粉在空气中不稳定，可用于漂白纸张",
+                "C": "晶体硅熔点高硬度大，可用于制作半导体材料",
+                "D": "氢氧化铝具有弱碱性，可用于制胃酸中和剂"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:37"
+        },
+        {
+            "question_id": 188,
+            "question": "防冻剂是一种能在低温下防止物料中水分结冰的物质，下列可用于防冻剂的物质中，含有氮元素的有机物是",
+            "options": {
+                "A": "尿素[CO(NH2)2]",
+                "B": "甲醇[CH3OH]",
+                "C": "氯化钙[CaCl2]",
+                "D": "亚硝酸钠[NaNO2]"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:41"
+        },
+        {
+            "question_id": 189,
+            "question": "分子式为C4H10O并能与金属钠反应放出氢气的有机物有",
+            "options": {
+                "A": "3种",
+                "B": "5种",
+                "C": "4种",
+                "D": "6种"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:48"
+        },
+        {
+            "question_id": 190,
+            "question": "世界面积最大的内陆国家是",
+            "options": {
+                "A": "哈萨克斯坦",
+                "B": "巴基斯坦",
+                "C": "吉尔吉斯斯坦",
+                "D": "塔吉克斯坦"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:34:55"
+        },
+        {
+            "question_id": 191,
+            "question": "早春季节，融雪漏⽃的形成，会导致胡杨树主⼲周围",
+            "options": {
+                "A": "地下⽔位下降",
+                "B": "⾍害概率减⼩",
+                "C": "积雪厚度变⼤",
+                "D": "植被数量增加"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:02"
+        },
+        {
+            "question_id": 192,
+            "question": "⼤洋板块与⼤陆板块碰撞，可能形成",
+            "options": {
+                "A": "岛弧和裂⾕",
+                "B": "海岭和裂⾕",
+                "C": "岛弧和海沟",
+                "D": "海岭和海沟"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:07"
+        },
+        {
+            "question_id": 193,
+            "question": "我国⽔资源的空间分布特点是",
+            "options": {
+                "A": "东南多，⻄北少",
+                "B": "⻄北多，⻄南少",
+                "C": "北⽅多，南⽅少",
+                "D": "东北多，⻄南少"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:13"
+        },
+        {
+            "question_id": 194,
+            "question": "世界上最大的岛屿是",
+            "options": {
+                "A": "马达加斯加岛",
+                "B": "台湾岛",
+                "C": "格陵兰岛",
+                "D": "海南岛"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:19"
+        },
+        {
+            "question_id": 195,
+            "question": "从6位同学中任意选出4位参加公益活动，不同的选法共有",
+            "options": {
+                "A": "30种",
+                "B": "6种",
+                "C": "10种 ",
+                "D": "15种 "
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:25"
+        },
+        {
+            "question_id": 196,
+            "question": "在等差数列中已知a5=5 ，a20=63则a11+a14=",
+            "options": {
+                "A": "68",
+                "B": "70",
+                "C": "80",
+                "D": "58"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:30"
+        },
+        {
+            "question_id": 197,
+            "question": "已知⼀个等差数列的⾸项为1，公差为3，那么该数列的前5项和为",
+            "options": {
+                "A": "10",
+                "B": "35",
+                "C": "30",
+                "D": "20"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:34"
+        },
+        {
+            "question_id": 198,
+            "question": "从6位同学中任意选出4位参加公益活动，不同的选发有",
+            "options": {
+                "A": "10种",
+                "B": "30种",
+                "C": "15种",
+                "D": "6种"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:39"
+        },
+        {
+            "question_id": 199,
+            "question": "若直线x+y+m=0与圆x^2+y^2=m相切，则m=",
+            "options": {
+                "A": "0或2",
+                "B": "无解",
+                "C": "2",
+                "D": "sqrt{2}"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:43"
+        },
+        {
+            "question_id": 200,
+            "question": "某⼈先向东⾛2m，接着向⻄⾛6m，最后向南⾛3m，则他在这段运动中的位移的⼤⼩和路程分别是",
+            "options": {
+                "A": "5m，11m",
+                "B": "11m，11m",
+                "C": "5m，5m",
+                "D": "11m，5m"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:48"
+        },
+        {
+            "question_id": 201,
+            "question": "两只灯泡分别接在两个电路中，下列判断正确的是（）",
+            "options": {
+                "A": "在电路中实际功率⼤的灯较亮",
+                "B": "接在电压⾼的电路两端的那盏灯较亮",
+                "C": "额定电压⾼的灯泡较亮",
+                "D": "额定功率⼤的灯泡较亮"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:52"
+        },
+        {
+            "question_id": 202,
+            "question": "根据打点计时器的纸带，我们可以从纸带直接得到的物理量是",
+            "options": {
+                "A": "运动物体的位移",
+                "B": "运动物体的平均速度",
+                "C": "运动物体的瞬时速度",
+                "D": "运动物体的加速度"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:35:57"
+        },
+        {
+            "question_id": 203,
+            "question": "油罐⻋后⾯都有⼀条拖地的铁链，其作⽤是",
+            "options": {
+                "A": "做为油罐⻋的标志",
+                "B": "向外界散热",
+                "C": "发出响声，提醒其他⻋辆和⾏⼈的注意",
+                "D": "把电荷导⼊⼤地，避免由静电造成危害"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:02"
+        },
+        {
+            "question_id": 204,
+            "question": "汽⻋以20m/s的速度做匀速直线运动，刹⻋的加速度⼤⼩为5m/s2，那么刹⻋后4s与刹⻋后6s汽⻋通过 的位移之⽐为",
+            "options": {
+                "A": "1:1",
+                "B": "4:9",
+                "C": "4:3",
+                "D": "2:3"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:07"
+        },
+        {
+            "question_id": 205,
+            "question": "下列关于世界贸易组织的表述正确的是",
+            "options": {
+                "A": "它是囊括当今世界经济各领域的多边贸易体制",
+                "B": "它的正式运转标志着世界经济“一超多强”格局的结束",
+                "C": "它是由欧洲联盟、北美自由贸易区等组织合并而成",
+                "D": "它是少数发达国家控制世界市场的工具"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:14"
+        },
+        {
+            "question_id": 206,
+            "question": "在经济学中，人们常说国际贸易是经济增长的“发动机”。之所以这样说，是因为国际贸易",
+            "options": {
+                "A": "是一种复杂的交换活动",
+                "B": "能满足人们消费多样性的需求",
+                "C": "能够为一国赚取外汇",
+                "D": "能够发挥一国的经济优势"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:36:19"
+        },
+        {
+            "question_id": 207,
+            "question": "青瓷是中国著名传统瓷器的一种，以瓷质细腻，线条明快流畅、造型端庄浑朴、色泽纯洁而斑斓著称于世。精美绝伦的青瓷体现了中华文化",
+            "options": {
+                "A": "求同存异，兼收并蓄",
+                "B": "源远流长，唯我独尊",
+                "C": "体现时代，摒弃传统",
+                "D": "独树一帜，独领风骚"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:24"
+        },
+        {
+            "question_id": 208,
+            "question": "随着市场经济的进一步发展，我国企业越来越重视对知识产权、商标的申请和保护。这一现象主要体现了市场经济的",
+            "options": {
+                "A": "开放性",
+                "B": "平等性",
+                "C": "竞争性",
+                "D": "法制性"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "C",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:36:29"
+        },
+        {
+            "question_id": 209,
+            "question": "广东省肇庆市端州区罗某利用信用卡恶意透支2.78万元，2010年5月被警方拘留。这说明",
+            "options": {
+                "A": "信用卡为现代社会金融犯罪提供了条件",
+                "B": "信用卡必须由收入高的人持有",
+                "C": "人们必须守信，自觉维护信用安全",
+                "D": "信用卡可以集存款、取款、贷款、消费、结算为一体"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:34"
+        },
+        {
+            "question_id": 210,
+            "question": "心理学研究表明，在交际方面",
+            "options": {
+                "A": "女优于男",
+                "B": "不一定",
+                "C": "男优于女",
+                "D": "男女无差异"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:36:38"
+        },
+        {
+            "question_id": 211,
+            "question": "按需求层次论，排列在最低层次的需要是",
+            "options": {
+                "A": "性需要",
+                "B": "生理需要",
+                "C": "生存需要",
+                "D": "安全需要"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:42"
+        },
+        {
+            "question_id": 212,
+            "question": "桑德拉·贝姆的男女双性化量表测量的是男女的",
+            "options": {
+                "A": "社会差异",
+                "B": "气质差异",
+                "C": "性格差异",
+                "D": "能力差异"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:47"
+        },
+        {
+            "question_id": 213,
+            "question": "下列激素促进卵泡的募集和生长的是",
+            "options": {
+                "A": "PRL",
+                "B": "FSH",
+                "C": "LH",
+                "D": "PG"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:51"
+        },
+        {
+            "question_id": 214,
+            "question": "艾滋病的三种传播途径不包括",
+            "options": {
+                "A": "性接触",
+                "B": "血液",
+                "C": "母婴",
+                "D": "握手及共同进餐等"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:36:56"
+        },
+        {
+            "question_id": 215,
+            "question": "被称为“纸黄金”的国际储备是",
+            "options": {
+                "A": "“稀缺货币”",
+                "B": "欧元",
+                "C": "特别提款权",
+                "D": "英镑"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:37:01"
+        },
+        {
+            "question_id": 216,
+            "question": "在目前西方国家，数量最多的公司形式是",
+            "options": {
+                "A": "无限公司",
+                "B": "两合公司",
+                "C": "有限公司",
+                "D": "股份有限公司"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:37:06"
+        },
+        {
+            "question_id": 217,
+            "question": "依大陆法，由于本人的意思而产生的代理为",
+            "options": {
+                "A": "意定代理",
+                "B": "法定代理",
+                "C": "指定代理",
+                "D": "意定代理和指定代理"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:37:10"
+        },
+        {
+            "question_id": 218,
+            "question": "在大陆法国家，直接代理人称为",
+            "options": {
+                "A": "民事代理人",
+                "B": "商业代理人",
+                "C": "行纪人",
+                "D": "法定代理人"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:37:17"
+        },
+        {
+            "question_id": 219,
+            "question": "航空器的国籍是指",
+            "options": {
+                "A": "航空器登记国的国籍",
+                "B": "机长的国籍",
+                "C": "航空器所有人的国籍",
+                "D": "航空器承租人的国籍"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:37:21"
+        },
+        {
+            "question_id": 220,
+            "question": "据事说理的方法有",
+            "options": {
+                "A": "依托式",
+                "B": "比照式",
+                "C": "类比式",
+                "D": "比喻式"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:37:25"
+        },
+        {
+            "question_id": 221,
+            "question": "新闻“属”的概念是",
+            "options": {
+                "A": "事实",
+                "B": "报道",
+                "C": "宣传",
+                "D": "信息"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:37:32"
+        },
+        {
+            "question_id": 222,
+            "question": "深度报道是",
+            "options": {
+                "A": "一种评论形式",
+                "B": "一种报道理念",
+                "C": "一种新闻体裁",
+                "D": "一种报道方式"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:37:37"
+        },
+        {
+            "question_id": 223,
+            "question": "我们把传播过程中产生信息的过程和行为称为",
+            "options": {
+                "A": "译码",
+                "B": "制码",
+                "C": "释码",
+                "D": "编码"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:37:43"
+        },
+        {
+            "question_id": 224,
+            "question": "信息表现形式有语言、符号和",
+            "options": {
+                "A": "图像",
+                "B": "声音",
+                "C": "雕塑",
+                "D": "文字"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:37:49"
+        },
+        {
+            "question_id": 225,
+            "question": "下列选项中，属于私法的是",
+            "options": {
+                "A": "国际法",
+                "B": "宪法",
+                "C": "刑事诉讼法",
+                "D": "民法"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:37:53"
+        },
+        {
+            "question_id": 226,
+            "question": "下列各项中，不属于法律实施的是",
+            "options": {
+                "A": "执法",
+                "B": "立法",
+                "C": "法律监督",
+                "D": "守法"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:37:58"
+        },
+        {
+            "question_id": 227,
+            "question": "普通法与衡平法的划分出现在",
+            "options": {
+                "A": "英美法系",
+                "B": "社会主义法系",
+                "C": "伊斯兰法系",
+                "D": "大陆法系"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:04"
+        },
+        {
+            "question_id": 228,
+            "question": "当代中国法的渊源中最重要的部分是",
+            "options": {
+                "A": "宪法",
+                "B": "法规",
+                "C": "成文法",
+                "D": "习惯法"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:09"
+        },
+        {
+            "question_id": 229,
+            "question": "引起财产继承关系的法律事实属于",
+            "options": {
+                "A": "积极行为",
+                "B": "消极行为",
+                "C": "行为",
+                "D": "事件"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:13"
+        },
+        {
+            "question_id": 230,
+            "question": "人们在实践中形成的具有实现可能性的对未来的向往和追求，称为",
+            "options": {
+                "A": "信念",
+                "B": "信仰",
+                "C": "幻想",
+                "D": "理想"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:18"
+        },
+        {
+            "question_id": 231,
+            "question": "我国第一部社会主义类型的宪法通过的时间是",
+            "options": {
+                "A": "1949年",
+                "B": "1982年",
+                "C": "1954年",
+                "D": "1978年"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:23"
+        },
+        {
+            "question_id": 232,
+            "question": "在犯罪构成中，刑法所保护的而为犯罪行为所危害的社会关系是",
+            "options": {
+                "A": "犯罪客体",
+                "B": "犯罪客观方面",
+                "C": "犯罪主观方面",
+                "D": "犯罪主体"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:28"
+        },
+        {
+            "question_id": 233,
+            "question": "体现统治阶级意志的，由国家制定或认可的，并由国家强制力保障实施的社会规范是",
+            "options": {
+                "A": "宗教规范",
+                "B": "法律规范",
+                "C": "纪律规范",
+                "D": "道德规范"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:32"
+        },
+        {
+            "question_id": 234,
+            "question": "在国家法律体系中居于核心地位、具有最高法律效力的是",
+            "options": {
+                "A": "刑法",
+                "B": "宪法",
+                "C": "行政法",
+                "D": "经济法"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:37"
+        },
+        {
+            "question_id": 235,
+            "question": "下列选项哪一个指的是必定有真假的语确的字符串。",
+            "options": {
+                "A": "推论",
+                "B": "陈述",
+                "C": "语句",
+                "D": "命题"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:42"
+        },
+        {
+            "question_id": 236,
+            "question": "亚里士多德的论证评价标准不包括",
+            "options": {
+                "A": "分析标准",
+                "B": "逻辑标准",
+                "C": "修辞标准",
+                "D": "论辩标准"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:38:47"
+        },
+        {
+            "question_id": 237,
+            "question": "论证的三重功能不包括",
+            "options": {
+                "A": "证成",
+                "B": "推论",
+                "C": "说服",
+                "D": "反驳"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:38:53"
+        },
+        {
+            "question_id": 238,
+            "question": "论证评价的基本标准不包括",
+            "options": {
+                "A": "修辞标准",
+                "B": "形式逻辑标准",
+                "C": "谬误标准",
+                "D": "论辩标准"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:38:58"
+        },
+        {
+            "question_id": 239,
+            "question": "支持谬误的情形不包括",
+            "options": {
+                "A": "合成谬误",
+                "B": "演绎无效",
+                "C": "分解谬误",
+                "D": "偷换论题"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:39:02"
+        },
+        {
+            "question_id": 240,
+            "question": "SVM在下列那种情况下表现糟糕",
+            "options": {
+                "A": "以上都不是",
+                "B": "线性可分数据",
+                "C": "清洗过的数据",
+                "D": "含噪声数据与重叠数据点"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:07"
+        },
+        {
+            "question_id": 241,
+            "question": "从给定的句子、段落中识别人名、组织名的过程称为",
+            "options": {
+                "A": "命名实体识别",
+                "B": "词干提取",
+                "C": "新词发现",
+                "D": "情感分析"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:12"
+        },
+        {
+            "question_id": 242,
+            "question": "针对“北京 是 中国 的 首都”这一分词后的结果，不经过预处理，可以生成多少个3-gram短语",
+            "options": {
+                "A": "4",
+                "B": "3",
+                "C": "5",
+                "D": "2"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:18"
+        },
+        {
+            "question_id": 243,
+            "question": "统计模式分类问题中，当先验概率未知时，可以使用",
+            "options": {
+                "A": "最小误判概率准则",
+                "B": "最小最大损失准则",
+                "C": "N-P判决",
+                "D": "最小损失准则"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:23"
+        },
+        {
+            "question_id": 244,
+            "question": "请选择下面可以应用隐马尔科夫(HMM)模型的选项",
+            "options": {
+                "A": "所有以上",
+                "B": "基因序列数据集",
+                "C": "股票市场数据集",
+                "D": "电影浏览数据集"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:28"
+        },
+        {
+            "question_id": 245,
+            "question": "在管理协调中，常常担当主体角色的是",
+            "options": {
+                "A": "信源",
+                "B": "信宿",
+                "C": "信道",
+                "D": "信息"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:32"
+        },
+        {
+            "question_id": 246,
+            "question": "人们从两个或两个以上备选行动方案中做出选择的管理环节是",
+            "options": {
+                "A": "控制",
+                "B": "协调",
+                "C": "计划",
+                "D": "决策"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:37"
+        },
+        {
+            "question_id": 247,
+            "question": "控制的目的在于",
+            "options": {
+                "A": "使组织实际工作与计划一致",
+                "B": "使群体步调一致",
+                "C": "衡量雇员绩效",
+                "D": "寻找错误"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:42"
+        },
+        {
+            "question_id": 248,
+            "question": "需要层次论认为，人的最低层需要是",
+            "options": {
+                "A": "安全需要",
+                "B": "社交需要",
+                "C": "尊重需要",
+                "D": "生理需要"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:47"
+        },
+        {
+            "question_id": 249,
+            "question": "不属于目标管理特点的是",
+            "options": {
+                "A": "民主管理",
+                "B": "成果管理",
+                "C": "过程管理",
+                "D": "自觉管理"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:53"
+        },
+        {
+            "question_id": 250,
+            "question": "马斯洛需要层次理论中的最低层次是",
+            "options": {
+                "A": "自我实现的需要",
+                "B": "社会需要",
+                "C": "安全需要",
+                "D": "生理需要"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:39:57"
+        },
+        {
+            "question_id": 251,
+            "question": "下列属于不可扩张市场的是",
+            "options": {
+                "A": "家用电器市场",
+                "B": "高档化妆品市场",
+                "C": "食盐市场",
+                "D": "汽车市场"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:02"
+        },
+        {
+            "question_id": 252,
+            "question": "低机会和低威胁的业务属于",
+            "options": {
+                "A": "理想业务",
+                "B": "成熟业务",
+                "C": "困难业务",
+                "D": "冒险业务"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:07"
+        },
+        {
+            "question_id": 253,
+            "question": "顾客从本企业所购产品占该产品所有顾客的百分比是指",
+            "options": {
+                "A": "顾客选择性",
+                "B": "顾客渗透率",
+                "C": "顾客忠诚度",
+                "D": "价格选择性"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:12"
+        },
+        {
+            "question_id": 254,
+            "question": "企业产品订价的最终目的是",
+            "options": {
+                "A": "价格具有竞争力",
+                "B": "获得最大利润",
+                "C": "使顾客满意",
+                "D": "符合政策要求"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:16"
+        },
+        {
+            "question_id": 255,
+            "question": "“从个别到一般，从一般到个别”的思维方法是",
+            "options": {
+                "A": "实践到认识",
+                "B": "分析与综合",
+                "C": "抽象到具体",
+                "D": "归纳与演绎"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:21"
+        },
+        {
+            "question_id": 256,
+            "question": "必然王国和自由王国是社会发展的",
+            "options": {
+                "A": "两条不同的道路",
+                "B": "两种不同的理想",
+                "C": "两种不同的状态",
+                "D": "两种不同的选择"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:25"
+        },
+        {
+            "question_id": 257,
+            "question": "在垄断资本主义阶段占统治地位的资本是",
+            "options": {
+                "A": "工业资本",
+                "B": "金融资本",
+                "C": "农业资本",
+                "D": "银行资本"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:31"
+        },
+        {
+            "question_id": 258,
+            "question": "最鲜明体现资本主义国家实质的国家职能是",
+            "options": {
+                "A": "社会职能",
+                "B": "经济职能",
+                "C": "对外交往职能",
+                "D": "政治职能 "
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:37"
+        },
+        {
+            "question_id": 259,
+            "question": "提出价值规律是“一只看不见的手”是",
+            "options": {
+                "A": "亚当斯密",
+                "B": "威廉配第",
+                "C": "大卫李嘉图",
+                "D": "马克思"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:41"
+        },
+        {
+            "question_id": 260,
+            "question": "声调的基本性质决定于",
+            "options": {
+                "A": "音高",
+                "B": "音色",
+                "C": "音长",
+                "D": "音强"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:45"
+        },
+        {
+            "question_id": 261,
+            "question": "汉语音节是",
+            "options": {
+                "A": "元音和辅音各占一半",
+                "B": "辅音较少，元音占绝对优势",
+                "C": "辅音较多，元音较少",
+                "D": "没有辅音"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:40:50"
+        },
+        {
+            "question_id": 262,
+            "question": "“员、祖、乡、分、妊、严”中包含的自由语素是",
+            "options": {
+                "A": "乡、分、严",
+                "B": "祖、分、严",
+                "C": "祖、乡、分",
+                "D": "员、分、妊"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:40:56"
+        },
+        {
+            "question_id": 263,
+            "question": "在下面重叠的例子中，表示“适度、适中”意义的是",
+            "options": {
+                "A": "白白的",
+                "B": "坐坐",
+                "C": "客客气气的 ",
+                "D": "散散步"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:41:01"
+        },
+        {
+            "question_id": 264,
+            "question": "下列短语中，是定中短语的是",
+            "options": {
+                "A": "打扫干净 ",
+                "B": "操作方法",
+                "C": "张华同学",
+                "D": "已经完成 "
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:07"
+        },
+        {
+            "question_id": 265,
+            "question": "中枢神经系统活动所需的热能量直接来自",
+            "options": {
+                "A": "脂肪",
+                "B": "葡萄糖",
+                "C": "脂肪酸",
+                "D": "蛋白质"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:11"
+        },
+        {
+            "question_id": 266,
+            "question": "鱼类食物中含有较为丰富的无机盐是",
+            "options": {
+                "A": "铁，碘",
+                "B": "钙，铁",
+                "C": "钙，碘",
+                "D": "钙，镁"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:15"
+        },
+        {
+            "question_id": 267,
+            "question": "牛磺酸含量丰富的是",
+            "options": {
+                "A": "鸡蛋",
+                "B": "贝类的肉质",
+                "C": "鱼类的肉质",
+                "D": "淡水产品"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:21"
+        },
+        {
+            "question_id": 268,
+            "question": "蛋白质的消化的开始部位为",
+            "options": {
+                "A": "口腔",
+                "B": "大肠",
+                "C": "小肠",
+                "D": "胃"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:26"
+        },
+        {
+            "question_id": 269,
+            "question": "下列豆制品含维生素C较多的是",
+            "options": {
+                "A": "豆浆",
+                "B": "豆腐干",
+                "C": "豆腐",
+                "D": "豆芽"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:30"
+        },
+        {
+            "question_id": 270,
+            "question": "“一切皆流，无物常驻。”是谁的观点",
+            "options": {
+                "A": "巴门尼德",
+                "B": "赫拉克利特",
+                "C": "苏格拉底",
+                "D": "黑格尔"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:35"
+        },
+        {
+            "question_id": 271,
+            "question": "“人是万物的尺度”是谁提出的命题。",
+            "options": {
+                "A": "泰勒斯",
+                "B": "巴门尼德",
+                "C": "赫拉克利特",
+                "D": "普罗泰戈拉"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:39"
+        },
+        {
+            "question_id": 272,
+            "question": "建立了神正论的是。",
+            "options": {
+                "A": "苏格拉底",
+                "B": "圣奥古斯丁",
+                "C": "柏拉图",
+                "D": "巴门尼德"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:44"
+        },
+        {
+            "question_id": 273,
+            "question": "美学属于（）范畴",
+            "options": {
+                "A": "伦理学",
+                "B": "哲学",
+                "C": "文学",
+                "D": "化学"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:49"
+        },
+        {
+            "question_id": 274,
+            "question": "整个人类发端以来，所有问题最终归结起来无非是",
+            "options": {
+                "A": "温饱问题",
+                "B": "种族问题",
+                "C": "精神问题",
+                "D": "生死问题"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:41:55"
+        },
+        {
+            "question_id": 275,
+            "question": "租入固定资产登记簿属于",
+            "options": {
+                "A": "备查账簿",
+                "B": "序时账簿",
+                "C": "分类账簿",
+                "D": "联合账簿"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:01"
+        },
+        {
+            "question_id": 276,
+            "question": "企业按规定从税后净利润中提取的积累资金是",
+            "options": {
+                "A": "未分配利润",
+                "B": "盈余公积",
+                "C": "应付利润",
+                "D": "利润分配"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:05"
+        },
+        {
+            "question_id": 277,
+            "question": "在财政会计中，“在途款”账户的性质是",
+            "options": {
+                "A": "资产",
+                "B": "负债",
+                "C": "支出",
+                "D": "收入"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:11"
+        },
+        {
+            "question_id": 278,
+            "question": "行政单位固定资产减少时，其注销的价值是",
+            "options": {
+                "A": "重置价值",
+                "B": "账面原价",
+                "C": "可变现净值",
+                "D": "现行市价"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:15"
+        },
+        {
+            "question_id": 279,
+            "question": "下列各项中，属于负债类科目的是",
+            "options": {
+                "A": "预付账款",
+                "B": "应收账款",
+                "C": "预收账款",
+                "D": "长期待摊费用"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:20"
+        },
+        {
+            "question_id": 280,
+            "question": "犯罪分子具有刑法规定的减轻处罚情节的，应当在（）判处刑罚。",
+            "options": {
+                "A": "法定刑幅度内按照最低刑",
+                "B": "法定最高刑以下",
+                "C": "法定刑以下",
+                "D": "法定刑以内"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:24"
+        },
+        {
+            "question_id": 281,
+            "question": "甲意欲抢劫银行，在去银行途中，因违章乱穿马路，被车撞伤，其处于抢劫的（）形态。",
+            "options": {
+                "A": "不构成犯罪",
+                "B": "犯罪预备",
+                "C": "犯意表示",
+                "D": "犯罪既遂"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:30"
+        },
+        {
+            "question_id": 282,
+            "question": "对累犯从重处罚的刑罚制度，体现了我国刑法的",
+            "options": {
+                "A": "罪刑法定原则",
+                "B": "惩罚与教育相结合原则",
+                "C": "刑法适用平等原则",
+                "D": "罪责刑相适应原则"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:34"
+        },
+        {
+            "question_id": 283,
+            "question": "下列选项中，属于处分行为的是",
+            "options": {
+                "A": "捐助行为",
+                "B": "抛弃所有权的行为",
+                "C": "签订货物买卖合同",
+                "D": "委托行为"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:39"
+        },
+        {
+            "question_id": 284,
+            "question": "行为人欲杀甲而向甲开枪，结果既杀死甲又伤害了乙，这属于",
+            "options": {
+                "A": "想象竞合犯",
+                "B": "牵连犯",
+                "C": "继续犯",
+                "D": "连续犯"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:43"
+        },
+        {
+            "question_id": 285,
+            "question": "下列属于转移性钙化的是",
+            "options": {
+                "A": "肺间质钙化",
+                "B": "结核病灶钙化",
+                "C": "粥瘤钙化",
+                "D": "血栓钙化"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:48"
+        },
+        {
+            "question_id": 286,
+            "question": "麻醉平面达脐部时，相对应的脊神经节段是",
+            "options": {
+                "A": "T12",
+                "B": "T8",
+                "C": "T10",
+                "D": "T6"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:54"
+        },
+        {
+            "question_id": 287,
+            "question": "胃癌好发的部位是",
+            "options": {
+                "A": "胃前壁",
+                "B": "胃窦",
+                "C": "胃后壁",
+                "D": "胃底"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:42:58"
+        },
+        {
+            "question_id": 288,
+            "question": "适合于分娩镇痛的局麻药是",
+            "options": {
+                "A": "布比卡因",
+                "B": "普鲁卡因",
+                "C": "丁卡因",
+                "D": "利多卡因"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:02"
+        },
+        {
+            "question_id": 289,
+            "question": "原发性甲减与继发性甲减鉴别的关键指标是",
+            "options": {
+                "A": "rT3",
+                "B": "T4",
+                "C": "T3",
+                "D": "TSH"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:08"
+        },
+        {
+            "question_id": 290,
+            "question": "躁狂发作、抑郁发作属于",
+            "options": {
+                "A": "急性应激障碍",
+                "B": "人格障碍",
+                "C": "心境障碍",
+                "D": "应激后障碍"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:13"
+        },
+        {
+            "question_id": 291,
+            "question": "活泼好动或行动缓慢是人的（）特性的表现。",
+            "options": {
+                "A": "能力",
+                "B": "气质",
+                "C": "兴趣",
+                "D": "性格"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:18"
+        },
+        {
+            "question_id": 292,
+            "question": "演讲采用的言语形式主要是",
+            "options": {
+                "A": "对话言语",
+                "B": "书面言语",
+                "C": "独白言语",
+                "D": "内部言语"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:23"
+        },
+        {
+            "question_id": 293,
+            "question": "看见一朵玫瑰花并能认识它，这时的心理活动是",
+            "options": {
+                "A": "思维",
+                "B": "错觉",
+                "C": "感觉",
+                "D": "知觉"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:27"
+        },
+        {
+            "question_id": 294,
+            "question": "某种感觉的韦伯分数越小，说明该感觉越()。",
+            "options": {
+                "A": "敏锐",
+                "B": "正常",
+                "C": "迟钝",
+                "D": "低常"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:32"
+        },
+        {
+            "question_id": 295,
+            "question": "公共关系作为一积职业和学科，最早产生于",
+            "options": {
+                "A": "中国",
+                "B": "美国",
+                "C": "英国",
+                "D": "德国"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:39"
+        },
+        {
+            "question_id": 296,
+            "question": "市场领导者定位的战略思想是",
+            "options": {
+                "A": "先入为主",
+                "B": "寻找空隙",
+                "C": "摹仿别人",
+                "D": "挑战对手"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:43"
+        },
+        {
+            "question_id": 297,
+            "question": "具有显着的跨文化特征的是",
+            "options": {
+                "A": "国际公众",
+                "B": "顾客公众",
+                "C": "社区公众",
+                "D": "名流公众"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:43:48"
+        },
+        {
+            "question_id": 298,
+            "question": "公关调查的对象是",
+            "options": {
+                "A": "公众",
+                "B": "受众",
+                "C": "社会组织",
+                "D": "消费者"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:52"
+        },
+        {
+            "question_id": 299,
+            "question": "不受空间限制，传播范围最广的大众传播媒介是",
+            "options": {
+                "A": "杂志",
+                "B": "电视",
+                "C": "报纸",
+                "D": "广播"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:43:57"
+        },
+        {
+            "question_id": 300,
+            "question": "第二次世界大战期间，美国在日本广岛投下的原子弹名字",
+            "options": {
+                "A": "大男孩",
+                "B": "小男孩",
+                "C": "胖子",
+                "D": "傻子"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:01"
+        },
+        {
+            "question_id": 301,
+            "question": "（）不是主动式声呐的特点。",
+            "options": {
+                "A": "隐蔽性好",
+                "B": "侦察距离近",
+                "C": "对静止无声目标有效",
+                "D": "容易暴露"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:09"
+        },
+        {
+            "question_id": 302,
+            "question": "在火炮时代，驱逐舰攻击敌大型战舰时使用的主要武器是",
+            "options": {
+                "A": "火箭弹",
+                "B": "火炮",
+                "C": "皆不是",
+                "D": "鱼雷"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:14"
+        },
+        {
+            "question_id": 303,
+            "question": "《反恐怖主义法》规定共有几章几条",
+            "options": {
+                "A": "十章97条",
+                "B": "十章95条",
+                "C": "九章96条",
+                "D": "八章98条"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:20"
+        },
+        {
+            "question_id": 304,
+            "question": "世界军事领域的竞争，说究竟是()的竞争。",
+            "options": {
+                "A": "科技",
+                "B": "经济实力",
+                "C": "人才",
+                "D": "综合国力"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "D",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:44:24"
+        },
+        {
+            "question_id": 305,
+            "question": "韦伯认为社会学的研究对象是",
+            "options": {
+                "A": "社会事实",
+                "B": "社会关系",
+                "C": "社会行动",
+                "D": "社会"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:29"
+        },
+        {
+            "question_id": 306,
+            "question": "相距 365 厘米以上的距离，是",
+            "options": {
+                "A": "个人距离",
+                "B": "亲密距离",
+                "C": "社会距离",
+                "D": "公众距离"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:33"
+        },
+        {
+            "question_id": 307,
+            "question": "结合关系可以表现为",
+            "options": {
+                "A": "反感关系",
+                "B": "强制关系",
+                "C": "斗争关系",
+                "D": "竞争关系"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:39"
+        },
+        {
+            "question_id": 308,
+            "question": "科层制是一种典型的",
+            "options": {
+                "A": "传统型统治",
+                "B": "魅力型统治",
+                "C": "法理型统治",
+                "D": "世袭制统治"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:42"
+        },
+        {
+            "question_id": 309,
+            "question": "社区的首要功能是",
+            "options": {
+                "A": "社会化",
+                "B": "社会控制",
+                "C": "经济生活",
+                "D": "社会保障"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:44:48"
+        },
+        {
+            "question_id": 310,
+            "question": "属于运动处方的对象是",
+            "options": {
+                "A": "任何人",
+                "B": "从事体育锻炼者",
+                "C": "残疾人",
+                "D": "专业运动员"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:44:52"
+        },
+        {
+            "question_id": 311,
+            "question": "不是急性损伤前期处理原则是",
+            "options": {
+                "A": "防肿",
+                "B": "热敷",
+                "C": "制动",
+                "D": "止血"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:44:59"
+        },
+        {
+            "question_id": 312,
+            "question": "屈膝关节的肌不包括",
+            "options": {
+                "A": "腓肠肌",
+                "B": "半腱、半膜肌",
+                "C": "股二头肌",
+                "D": "股四头肌"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:05"
+        },
+        {
+            "question_id": 313,
+            "question": "年度训练大周期的核心部分是",
+            "options": {
+                "A": "适应时期",
+                "B": "过渡时期",
+                "C": "准备时期",
+                "D": "比赛时期"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "C",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:45:09"
+        },
+        {
+            "question_id": 314,
+            "question": "跳高训练时采用橡皮绳做横杆属于",
+            "options": {
+                "A": "表象法",
+                "B": "加难法",
+                "C": "减难法",
+                "D": "念动法"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:45:14"
+        },
+        {
+            "question_id": 315,
+            "question": "按“五轮学说”心属",
+            "options": {
+                "A": "风轮",
+                "B": "水轮",
+                "C": "气轮",
+                "D": "血轮"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:18"
+        },
+        {
+            "question_id": 316,
+            "question": "“肝火犯肺”是属于",
+            "options": {
+                "A": "相乘",
+                "B": "子病犯母",
+                "C": "相侮",
+                "D": "相克"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:23"
+        },
+        {
+            "question_id": 317,
+            "question": "元气运行的道路是",
+            "options": {
+                "A": "全身",
+                "B": "心脉",
+                "C": "胸腔",
+                "D": "三焦"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:45:28"
+        },
+        {
+            "question_id": 318,
+            "question": "肾在液为",
+            "options": {
+                "A": "唾",
+                "B": "泪",
+                "C": "涎",
+                "D": "尿"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:32"
+        },
+        {
+            "question_id": 319,
+            "question": "宜与蛤蚧对抗贮存的是",
+            "options": {
+                "A": "冰片",
+                "B": "大蒜",
+                "C": "花椒",
+                "D": "黑豆"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:37"
+        },
+        {
+            "question_id": 320,
+            "question": "病毒感染宿主细胞后可出现",
+            "options": {
+                "A": "细胞转化",
+                "B": "包涵体",
+                "C": "特异性新抗原",
+                "D": "细胞融合"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:42"
+        },
+        {
+            "question_id": 321,
+            "question": "病毒体核心的主要物质是",
+            "options": {
+                "A": "类脂",
+                "B": "核酸",
+                "C": "蛋白质",
+                "D": "磷酸"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:47"
+        },
+        {
+            "question_id": 322,
+            "question": "流行病学属于什么范畴",
+            "options": {
+                "A": "临床医学",
+                "B": "生物医学",
+                "C": "基础医学",
+                "D": "预防医学"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:52"
+        },
+        {
+            "question_id": 323,
+            "question": "病毒的增殖方式是",
+            "options": {
+                "A": "复制",
+                "B": "二分裂",
+                "C": "减数分裂",
+                "D": "分枝"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:45:56"
+        },
+        {
+            "question_id": 324,
+            "question": "下列病毒病哪种易发生潜伏感染",
+            "options": {
+                "A": "乙型脑炎",
+                "B": "乙型肝炎",
+                "C": "流感",
+                "D": "水痘"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:01"
+        },
+        {
+            "question_id": 325,
+            "question": "被宗教人士评论为“让上帝远离了这个世界，降低了人类在其中的独一无二性”的学说是",
+            "options": {
+                "A": "爱因斯坦的相对论",
+                "B": "伏尔泰的天赋人权说",
+                "C": "马丁·路德的新教学说",
+                "D": "达尔文的进化论"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "D",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:06"
+        },
+        {
+            "question_id": 326,
+            "question": "在英国君主立宪制的建立过程中，1701年颁布的嗣位法发挥了重要作用。该法规定，国王所作的任何决定必须由同意该决定的大臣签署方能生效。这一规定的目的在于",
+            "options": {
+                "A": "扩大国王的行政权",
+                "B": "扩大议会的权力",
+                "C": "防止国王独断专行",
+                "D": "加强国王对内阁的控制"
+            },
+            "correct_answer": "C",
+            "deepseek_answer": "C",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:12"
+        },
+        {
+            "question_id": 327,
+            "question": "第二次世界大战后，美苏两国逐渐走向政治、经济、军事领域的全面对抗。苏联在1949年成立经济互助委员会，协调和促进社会主义阵营各成员国的经济发展。此举主要针对的是",
+            "options": {
+                "A": "马歇尔计划",
+                "B": "北约组织",
+                "C": "德意志联邦共和国",
+                "D": "杜鲁门主义"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:17"
+        },
+        {
+            "question_id": 328,
+            "question": "英国学者约翰·凯伊在分析西欧经济时指出，“全球化”一词在1990年取代“民营化”成为经济改革的标语。这一变化表明在西欧",
+            "options": {
+                "A": "各国转而采用贸易保护政策",
+                "B": "经济已经逐步走出“滞胀”",
+                "C": "凯恩斯主义取得主导地位",
+                "D": "信息技术得到广泛使用"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:21"
+        },
+        {
+            "question_id": 329,
+            "question": "有国外学者说，如果世界结束于1820年，一部此前300年全球经济史的主体就会是东亚；只有结尾的简短一章可能提到遥远的大西洋沿岸。这里的“结尾的简短一章”主要指的是",
+            "options": {
+                "A": "资本主义世界体系确立",
+                "B": "工业革命",
+                "C": "西方早期殖民扩张",
+                "D": "新航路开辟"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:26"
+        },
+        {
+            "question_id": 330,
+            "question": "加尔文最开始在哪里进行宗教改革。",
+            "options": {
+                "A": "荷兰",
+                "B": "法国",
+                "C": "北欧",
+                "D": "日内瓦"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "B",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:46:30"
+        },
+        {
+            "question_id": 331,
+            "question": "写下《坛经》的禅宗六祖是",
+            "options": {
+                "A": "慧能",
+                "B": "慧远",
+                "C": "慧可",
+                "D": "道信"
+            },
+            "correct_answer": "A",
+            "deepseek_answer": "A",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:35"
+        },
+        {
+            "question_id": 332,
+            "question": "马来西亚的国教是。",
+            "options": {
+                "A": "基督教",
+                "B": "伊斯兰教",
+                "C": "佛教",
+                "D": "道教"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:41"
+        },
+        {
+            "question_id": 333,
+            "question": "佛陀于()入涅盘？",
+            "options": {
+                "A": "蓝毗尼",
+                "B": "拘尸那罗",
+                "C": "鹿野苑",
+                "D": "舍卫城"
+            },
+            "correct_answer": "B",
+            "deepseek_answer": "B",
+            "is_correct": true,
+            "timestamp": "2025-05-01 17:46:45"
+        },
+        {
+            "question_id": 334,
+            "question": "获得的觉是自觉、觉他的是",
+            "options": {
+                "A": "佛",
+                "B": "罗汉",
+                "C": "法师",
+                "D": "菩萨"
+            },
+            "correct_answer": "D",
+            "deepseek_answer": "A",
+            "is_correct": false,
+            "timestamp": "2025-05-01 17:46:49"
+        }
+    ]
+}

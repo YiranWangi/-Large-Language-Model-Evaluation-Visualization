@@ -1,0 +1,2347 @@
+{
+  "agronomy.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "肉牛屠宰后，胴体的哪个部位肉质较好",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "下列鸭品种中，产蛋量最高的品种是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "常见家畜中输精管不形成输精管壶腹的是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "牛的发情周期平均为",
+        "gold": "B",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "羊胴体中，肉质较好的部位是",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "anatomy.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "壁胸膜的分部不包括",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "属于蝶骨上的结构为",
+        "gold": "B",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "属于右心房的结构是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "咽的分部",
+        "gold": "C",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "舌下神经核位于",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "ancient_chinese.csv": {
+    "accuracy": 0.2,
+    "samples": [
+      {
+        "id": 0,
+        "question": "下列四组字中，全是形声字的一组是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "下列四组字中，全是会意字的一组是",
+        "gold": "D",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "下列句中，“是”充当前置宾语的一句是",
+        "gold": "B",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "下列注音术语，不属于直音这种注音方式的是",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "按照传统的“六书”体例，“益”字应属",
+        "gold": "D",
+        "pred": "C"
+      }
+    ]
+  },
+  "arts.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "著名民乐作品《十面埋伏》属于",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "审美的客体是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "吴带当风是指谁的绘画风格",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "话剧《龙须沟》的作者是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "《霓裳羽衣舞》是哪一时期宫廷乐舞。",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "astronomy.csv": {
+    "accuracy": 0.4,
+    "samples": [
+      {
+        "id": 0,
+        "question": "以下星座天区内梅西叶天体最多的是",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "以下哪个国家在本年度没有发射月球探测器的计划",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "梅西叶天体M44位于（）的天区内",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "在金星西大距时，在金星上看到的地球处于",
+        "gold": "C",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "太阳的光谱型是",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "business_ethics.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "商业伦理学最早出现在",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "伦理学的核心是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "下列不属于人的基本权利的时",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "关税的课税客体是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "区域经济从本质上讲是",
+        "gold": "D",
+        "pred": "B"
+      }
+    ]
+  },
+  "chinese_civil_service_exam.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "假设“如果张楠和林枫不是志愿者，那么杨梅是志愿者”是前提，“林枫是志愿者”为结论。若要以上结论成立，需要补充的前提是",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "对侵害英雄烈士的姓名、肖像、名誉、荣誉的行为，有权向人民法院提起诉讼的主体是：a英雄烈士近亲属；b检察机关；c当地人民政府；d负责英雄烈士保护工作的部门",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "下列说法错误的是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "日常生活中经常可以依据动物的某些行为预判天气，下列对应正确的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "设计：修建：高楼",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "chinese_driving_rule.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "夜间机动车通过照明条件良好的路段时，要怎样使用灯光",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "车辆临时靠边停车后准备起步时，应先怎样做",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "安全头枕在发生追尾事故时，能有效保护驾驶人的什么部位",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "准驾车型为小型汽车的，可以驾驶下列哪种车辆",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "安全气囊是一种什么装置",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "chinese_food_culture.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "孔府菜的代表名菜有",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "下列不属于淮扬菜的是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "称奶食为“白食”，肉食为“红食”的是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "“割不正不食”观念的提出者是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "我国南方地区流行吃青团的节日是",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "chinese_foreign_policy.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "20世纪70年代以来，中国积极融入世界，下列事件发生的先后顺序是：a恢复联合国的合法席位；b尼克松访华；c乒乓外交；d中美建交；e中日签署外交关系的联合声明",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "亚非会议能取得成功的根本原因是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "以下哪个是是国家关系发展的必然结果和客观趋势?",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "我国新时期的外交方针与政策有：a不结盟政策；b与周边国家建立友好关系；c一边倒与一大片；d对外开放",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "1948年底到1949年初，中共中央确定了一个重要的外交方针，将承认问题由新政权的单向“被承认”变成与外国政府之间的双向相互承认。毛泽东把这一外交方针概括为",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "chinese_history.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "有位古代思想家认为：通过读书等外在手段来明理自然是好，但“不识一个字，亦须还我堂堂地做个人”，重要的是先确立仁义这一根本。这位思想家可能是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "《读通鉴论》曰：“两端争胜，而徒为无益之论者，辨封建者是也。____，垂二千年而弗能改矣。”句中横线处应填入",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "一个文弱书生最终成为驾驭干军万马的最高统帅，成就了“无湘不成军”的传奇，被誉为“中兴第一名臣”和“洋务派之父”。此人是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "有学者认为河南偃师二里头文化遗址是传说中的夏朝都邑。以下考古发现中，最有力的证据是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "晚清设立的一个机构，不仅办理外交事务，还扶植一些现代化项日，如新式学堂、近代企业等。它经常遭到守旧派抨击，外国人也批评它办事不力。该机构是",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "chinese_literature.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "话剧《关汉卿》中的人物王著，其角色身份是",
+        "gold": "C",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "《太阳下的风景》的作者黄永玉和沈从文的故乡都在",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "诗集《中国农村的故事》的作者是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "郭沫若《凤凰涅磐》采用的诗体形式是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "长篇小说《京华烟云》的作者是",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "chinese_teacher_qualification.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "以下选项中的概念关系，与“土豆”和“马铃薯”一致的是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "提出“泛智”教育思想，探讨“把一切事物教给一切人类的全部艺术”的教育家是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "教师不能满足“授之以鱼”，更要做到“授人以渔”。这强调教学应重视",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "一般说来，制约教育发展规模，速度和教育结构的根本性因素是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "古人有称名、称字、称官职、称籍贯以及称谥号等习惯。有些诗文中称岳飞为“岳武穆”，“武穆”是",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "clinical_knowledge.csv": {
+    "accuracy": 0.4,
+    "samples": [
+      {
+        "id": 0,
+        "question": "年龄大、合并症多、预期寿命短的股骨颈骨折患者，首选的治疗是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "革兰阴性菌所致脓毒症的临床特点是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "下列符合原发免疫性血小板减少症的检查结果的有",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "限制型心肌病的主要表现是",
+        "gold": "A",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "急性肾损伤进展期的主要死亡原因是",
+        "gold": "C",
+        "pred": "A"
+      }
+    ]
+  },
+  "college_actuarial_science.csv": {
+    "accuracy": 0.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "在三淢因模型中给出 $\\mu_x^{(j)}=0.2 j， j=1，2，3$， 则 $q_x^{(2)}=()$ 。",
+        "gold": "A",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "已知现年 18 岁的王先生， 再生存 10 年的概率为 0.95 ， 再生存 30 年的概率为 0.75 ， 则 其现年 28 岁在达到 48 岁之前的死亡概率为 ( )。",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "某汽车一年内发生车祸次数服从混合泊松分布， 参数 $\\lambda$ 服从 $(0，6)$ 上的均匀分布。那 么， 该汽车一年内发生车祸的次数不超过 1 次的概率为 ( )。",
+        "gold": "C",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "已知 $S(x)=1-\\frac{x}{100}， 0 \\leqslant x \\leqslant 100$， 则 $f_{30}=(\\quad)$ 。",
+        "gold": "C",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "已知 ${ }_s p_{10}=0.4$， 且 $\\mu_x=0.01+b x， x \\geqslant 0$， 则 $b$ 等于 $(\\quad$ 。",
+        "gold": "D",
+        "pred": "B"
+      }
+    ]
+  },
+  "college_education.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "教育的本体功能是什么? ()",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "春秋时期出现的中国教育发展史上里程碑式的学校教育制度是 ()",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "我国学校教育大约出现在()。",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "鲁迅在“三味书屋”所接触到的办学形式在我国最早兴盛于()",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "在古代文献记载中，我国西周时期设在王都的小学和大学，总称为()",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "college_engineering_hydrology.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "水道断面面积包括 ( )",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "流域围湖造田和填湖造田，将使流域蒸发[ ]。",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "水位观测的精度一般准确到 ()",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "用浮标法测流，断面流量等于断面徐流量再乘以()",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "一般情况下，某一地点的露点温度将比当地当时的气温[ ]。",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "college_law.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "根据物权法规定，土地承包经营权的设立时间是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "以下选项中，属于邻接权客体的是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "下列行为如满足规定条件，应认定为伪造货币罪的是",
+        "gold": "D",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "不作为犯罪的主观方面",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "下列选项中，构成原物与孳息关系的是",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "college_mathematics.csv": {
+    "accuracy": 0.2,
+    "samples": [
+      {
+        "id": 0,
+        "question": "若f(x) 在 (a，b) 内单调有界， 则 f(x) 在 (a，b) 内间断点的类型只能是 ( ).",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "函数 $f(x)=\\frac{x-x^3}{\\sin \\pi x}$ 的可去间断点个数为.",
+        "gold": "C",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "若 $f(x)$ 的导函数是 $2^x(\\ln 2)^2$， 则 $f(x)$ 为 ( ).",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "设f(x)和F(x)分别为连续型随机变量X的概率密度和分布函数， 则下列函数 中可作为某随机变量的概率密度的是 . (多选)",
+        "gold": "A",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "设是 $f(x)$ 偶函数， $\\varphi(x)$ 是奇函数， 则下列函数(假设都有意义)中是奇函数的是 ( ).",
+        "gold": "B",
+        "pred": "A"
+      }
+    ]
+  },
+  "college_medical_statistics.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "只有各年龄组的发病率资料，用()方法计算标化发病率。",
+        "gold": "C",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "间接标准化法计算标化死亡率是：",
+        "gold": "B",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "抽样误差是由:",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "SMR 为：",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "观察何种疾病死因是造成当地居民死亡的主要死因，用",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "college_medicine.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "胃蠕动开始的部位是在",
+        "gold": "A",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "可使胞质内cAMP水平增高的酶是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "与线粒体内膜结合疏松容易被提取分离的细胞色素是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "在糖的有氧化过程，有几次底物水平磷酸化",
+        "gold": "A",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "胆汁中于消化有关的是",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "computer_science.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "关系数据库中的数据逻辑结构是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "下⾯属于端系统之间的协议是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "下列选项中，不属于线性结构的是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "RAM代表的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "算法的基本结构中不包括",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "computer_security.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "2003年上半年发生的较有影响的计算机及网络病毒是什么",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "以下不属于网络安全控制技术的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "人为的安全威胁包括主动攻击和被动攻击，以下属于被动攻击的是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "以下选项中，不属于生物识别方法的是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "信息网络安全的第一个时代",
+        "gold": "B",
+        "pred": "C"
+      }
+    ]
+  },
+  "conceptual_physics.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "一平面简谐波在弹性媒质中传播，在某一瞬时，媒质中某质元正处于平衡位置，此时它的能量是",
+        "gold": "D",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "一质点在光滑平面上，在外力作用下沿某一曲线运动，若突然将外力撤消，则该质点将作",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "下列关于重力概念的说法中，正确的是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "关于简谐振动，下列说法中正确的是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "电路中能产生持续电流的条件是",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "construction_project_management.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "下列溶剂中能将沥青裂解蒸馏出的油分完全溶解的溶剂是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "路面厚度评定的否决指标是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "下列水泵中、可以连续给液体施加能量的是",
+        "gold": "B",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "路面沥青层渗水系数宜在什么时间进行测定",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "悬臂式和锚定式挡土墙属于",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "economics.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "根据消费函数，随着收入增长，消费将",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "在新产品定价时的渗透定价策略是指",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "可以用于企业决策基础的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "当边际产量为零时",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "当需求的收入弹性为正值时，则这种产品应为",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "education.csv": {
+    "accuracy": 0.4,
+    "samples": [
+      {
+        "id": 0,
+        "question": "以下不属于职业教育课程模式特点的是",
+        "gold": "C",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "学科课程的代表人物是",
+        "gold": "C",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "职业学校的中心工作是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "下级的意见和信息向上级反映叫作哪种沟通",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "在我国最早的管理学家是",
+        "gold": "A",
+        "pred": "D"
+      }
+    ]
+  },
+  "electrical_engineering.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "在跳闸命令和合闸命令同时存在时，应保证",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "力对物体的作用效果是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "与变压器气体继电器连接油管的坡度为",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "钳形电流表中的电流互感器（）一次线圈。",
+        "gold": "A",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "硅钢片中含硅量愈高，其可塑性就",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "elementary_chinese.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "“及时当勉励，岁月不待人”是谁的名句",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "成语“一衣带水”中的“水”原指",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "“入木三分”这个成语原本是用来形容什么的",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "中国历史上被誉为“药王“的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "孔子弟子中擅长做生意的是谁",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "elementary_commonsense.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "我们经常吃的洋葱是植物的哪一部分",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "世界上地势最低的国家是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "有“绿城” 之称的是",
+        "gold": "A",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "世界上产玉米最多的国家是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "交通事故报警电话号码是",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "elementary_information_and_technology.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "下列不属于获取信息的途径是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "以下用于输出音频信息的设备是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "计算机处理信息时， 一个英文字母占用的字节数是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "计算机断电后， 信息会消失的存储器是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "在微型计算机中，CPU的名称是",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "elementary_mathematics.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "下列算式中，结果与 不相等的是",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "集合A={1，2,3, 4}的真⼦集个数为",
+        "gold": "D",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "当X=[ ]时，5X-9=51",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "下⾯的数与0最接近的⼀个数是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "做⼀个圆柱形通⻛管要⽤多少铁⽪是求",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "ethnology.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "我国共有多少个少数民族",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "赶年是（）的传统节日",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "下列民族中哪个民族是新中国成立后更改族称的",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "民族发展的决定性因素是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "“抓饭”是（）的特色饮食",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "food_science.csv": {
+    "accuracy": 0.2,
+    "samples": [
+      {
+        "id": 0,
+        "question": "全身黄染是食用（）过量",
+        "gold": "A",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "渗毒性强的是",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "速冻烹饪食品和蔬菜在解冻时宜采用",
+        "gold": "B",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "泡沫干燥的产品的特点具有",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "蛋白质在人体中的功能不包括",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "genetics.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "基因型为AaBBCc的个体所产生的配子种类有",
+        "gold": "A",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "组成核酸的核苷酸和碱基各有几种",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "以下哪些因素可以导致染色体畸变",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "四倍体细胞具有",
+        "gold": "C",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "结果导致DNA数量增加的染色体畸变是哪一种",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "global_facts.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "墨西哥影响最大的报纸是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "目前德国最有影响的新闻周刊是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "克林顿政府对外政策的三大支柱之一是什么",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "从政体上讲，美国是哪种形式的共和制",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "战后下列美国总统中属于共和党的是哪一位",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "high_school_biology.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "给健康大鼠静脉注射大量的低渗食盐水后，下列变化合理的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "下列生理活动与生物膜无关的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "将一株质量为20 g的黄瓜幼苗栽种在光照等适宜的环境中，一段时间后植株达到40 g，其增加的质量来自于",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "关于蛋白质的叙述，错误的是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "下列关于细胞凋亡的叙述，错误的是",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "high_school_chemistry.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "分子式为C4H8Cl2的同分异构体有(不考虑立体异构)",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "中华民族的发明创造为人类文明进步做出了巨大贡献。下列我国古代发明中，不涉及化学反应的是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "下列物质性质与应用对应关系正确的是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "防冻剂是一种能在低温下防止物料中水分结冰的物质，下列可用于防冻剂的物质中，含有氮元素的有机物是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "分子式为C4H10O并能与金属钠反应放出氢气的有机物有",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "high_school_geography.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "世界面积最大的内陆国家是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "早春季节，融雪漏⽃的形成，会导致胡杨树主⼲周围",
+        "gold": "D",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "⼤洋板块与⼤陆板块碰撞，可能形成",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "我国⽔资源的空间分布特点是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "世界上最大的岛屿是",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "high_school_mathematics.csv": {
+    "accuracy": 0.4,
+    "samples": [
+      {
+        "id": 0,
+        "question": "从6位同学中任意选出4位参加公益活动，不同的选法共有",
+        "gold": "D",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "在等差数列中已知a5=5 ，a20=63则a11+a14=",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "已知⼀个等差数列的⾸项为1，公差为3，那么该数列的前5项和为",
+        "gold": "B",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "从6位同学中任意选出4位参加公益活动，不同的选发有",
+        "gold": "C",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "若直线x+y+m=0与圆x^2+y^2=m相切，则m=",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "high_school_physics.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "某⼈先向东⾛2m，接着向⻄⾛6m，最后向南⾛3m，则他在这段运动中的位移的⼤⼩和路程分别是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "两只灯泡分别接在两个电路中，下列判断正确的是（）",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "根据打点计时器的纸带，我们可以从纸带直接得到的物理量是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "油罐⻋后⾯都有⼀条拖地的铁链，其作⽤是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "汽⻋以20m/s的速度做匀速直线运动，刹⻋的加速度⼤⼩为5m/s2，那么刹⻋后4s与刹⻋后6s汽⻋通过 的位移之⽐为",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "high_school_politics.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "下列关于世界贸易组织的表述正确的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "在经济学中，人们常说国际贸易是经济增长的“发动机”。之所以这样说，是因为国际贸易",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "青瓷是中国著名传统瓷器的一种，以瓷质细腻，线条明快流畅、造型端庄浑朴、色泽纯洁而斑斓著称于世。精美绝伦的青瓷体现了中华文化",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "随着市场经济的进一步发展，我国企业越来越重视对知识产权、商标的申请和保护。这一现象主要体现了市场经济的",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "广东省肇庆市端州区罗某利用信用卡恶意透支2.78万元，2010年5月被警方拘留。这说明",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "human_sexuality.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "心理学研究表明，在交际方面",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "按需求层次论，排列在最低层次的需要是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "桑德拉·贝姆的男女双性化量表测量的是男女的",
+        "gold": "B",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "下列激素促进卵泡的募集和生长的是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "艾滋病的三种传播途径不包括",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "international_law.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "被称为“纸黄金”的国际储备是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "在目前西方国家，数量最多的公司形式是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "依大陆法，由于本人的意思而产生的代理为",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "在大陆法国家，直接代理人称为",
+        "gold": "B",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "航空器的国籍是指",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "journalism.csv": {
+    "accuracy": 0.4,
+    "samples": [
+      {
+        "id": 0,
+        "question": "据事说理的方法有",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "新闻“属”的概念是",
+        "gold": "D",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "深度报道是",
+        "gold": "D",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "我们把传播过程中产生信息的过程和行为称为",
+        "gold": "B",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "信息表现形式有语言、符号和",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "jurisprudence.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "下列选项中，属于私法的是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "下列各项中，不属于法律实施的是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "普通法与衡平法的划分出现在",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "当代中国法的渊源中最重要的部分是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "引起财产继承关系的法律事实属于",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "legal_and_moral_basis.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "人们在实践中形成的具有实现可能性的对未来的向往和追求，称为",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "我国第一部社会主义类型的宪法通过的时间是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "在犯罪构成中，刑法所保护的而为犯罪行为所危害的社会关系是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "体现统治阶级意志的，由国家制定或认可的，并由国家强制力保障实施的社会规范是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "在国家法律体系中居于核心地位、具有最高法律效力的是",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "logical.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "下列选项哪一个指的是必定有真假的语确的字符串。",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "亚里士多德的论证评价标准不包括",
+        "gold": "B",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "论证的三重功能不包括",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "论证评价的基本标准不包括",
+        "gold": "C",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "支持谬误的情形不包括",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "machine_learning.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "SVM在下列那种情况下表现糟糕",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "从给定的句子、段落中识别人名、组织名的过程称为",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "针对“北京 是 中国 的 首都”这一分词后的结果，不经过预处理，可以生成多少个3-gram短语",
+        "gold": "B",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "统计模式分类问题中，当先验概率未知时，可以使用",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "请选择下面可以应用隐马尔科夫(HMM)模型的选项",
+        "gold": "A",
+        "pred": "B"
+      }
+    ]
+  },
+  "management.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "在管理协调中，常常担当主体角色的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "人们从两个或两个以上备选行动方案中做出选择的管理环节是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "控制的目的在于",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "需要层次论认为，人的最低层需要是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "不属于目标管理特点的是",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "marketing.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "马斯洛需要层次理论中的最低层次是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "下列属于不可扩张市场的是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "低机会和低威胁的业务属于",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "顾客从本企业所购产品占该产品所有顾客的百分比是指",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "企业产品订价的最终目的是",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "marxist_theory.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "“从个别到一般，从一般到个别”的思维方法是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "必然王国和自由王国是社会发展的",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "在垄断资本主义阶段占统治地位的资本是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "最鲜明体现资本主义国家实质的国家职能是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "提出价值规律是“一只看不见的手”是",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "modern_chinese.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "声调的基本性质决定于",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "汉语音节是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "“员、祖、乡、分、妊、严”中包含的自由语素是",
+        "gold": "A",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "在下面重叠的例子中，表示“适度、适中”意义的是",
+        "gold": "A",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "下列短语中，是定中短语的是",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "nutrition.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "中枢神经系统活动所需的热能量直接来自",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "鱼类食物中含有较为丰富的无机盐是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "牛磺酸含量丰富的是",
+        "gold": "B",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "蛋白质的消化的开始部位为",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "下列豆制品含维生素C较多的是",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "philosophy.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "“一切皆流，无物常驻。”是谁的观点",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "“人是万物的尺度”是谁提出的命题。",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "建立了神正论的是。",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "美学属于（）范畴",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "整个人类发端以来，所有问题最终归结起来无非是",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "professional_accounting.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "租入固定资产登记簿属于",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "企业按规定从税后净利润中提取的积累资金是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "在财政会计中，“在途款”账户的性质是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "行政单位固定资产减少时，其注销的价值是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "下列各项中，属于负债类科目的是",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "professional_law.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "犯罪分子具有刑法规定的减轻处罚情节的，应当在（）判处刑罚。",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "甲意欲抢劫银行，在去银行途中，因违章乱穿马路，被车撞伤，其处于抢劫的（）形态。",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "对累犯从重处罚的刑罚制度，体现了我国刑法的",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "下列选项中，属于处分行为的是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "行为人欲杀甲而向甲开枪，结果既杀死甲又伤害了乙，这属于",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "professional_medicine.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "下列属于转移性钙化的是",
+        "gold": "A",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "麻醉平面达脐部时，相对应的脊神经节段是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "胃癌好发的部位是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "适合于分娩镇痛的局麻药是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "原发性甲减与继发性甲减鉴别的关键指标是",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "professional_psychology.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "躁狂发作、抑郁发作属于",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "活泼好动或行动缓慢是人的（）特性的表现。",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "演讲采用的言语形式主要是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 3,
+        "question": "看见一朵玫瑰花并能认识它，这时的心理活动是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "某种感觉的韦伯分数越小，说明该感觉越()。",
+        "gold": "A",
+        "pred": "A"
+      }
+    ]
+  },
+  "public_relations.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "公共关系作为一积职业和学科，最早产生于",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "市场领导者定位的战略思想是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "具有显着的跨文化特征的是",
+        "gold": "D",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "公关调查的对象是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "不受空间限制，传播范围最广的大众传播媒介是",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "security_study.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "第二次世界大战期间，美国在日本广岛投下的原子弹名字",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "（）不是主动式声呐的特点。",
+        "gold": "A",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "在火炮时代，驱逐舰攻击敌大型战舰时使用的主要武器是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "《反恐怖主义法》规定共有几章几条",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "世界军事领域的竞争，说究竟是()的竞争。",
+        "gold": "C",
+        "pred": "D"
+      }
+    ]
+  },
+  "sociology.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "韦伯认为社会学的研究对象是",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 1,
+        "question": "相距 365 厘米以上的距离，是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "结合关系可以表现为",
+        "gold": "B",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "科层制是一种典型的",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "社区的首要功能是",
+        "gold": "C",
+        "pred": "A"
+      }
+    ]
+  },
+  "sports_science.csv": {
+    "accuracy": 0.6,
+    "samples": [
+      {
+        "id": 0,
+        "question": "属于运动处方的对象是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "不是急性损伤前期处理原则是",
+        "gold": "B",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "屈膝关节的肌不包括",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "年度训练大周期的核心部分是",
+        "gold": "D",
+        "pred": "C"
+      },
+      {
+        "id": 4,
+        "question": "跳高训练时采用橡皮绳做横杆属于",
+        "gold": "C",
+        "pred": "C"
+      }
+    ]
+  },
+  "traditional_chinese_medicine.csv": {
+    "accuracy": 0.2,
+    "samples": [
+      {
+        "id": 0,
+        "question": "按“五轮学说”心属",
+        "gold": "D",
+        "pred": "B"
+      },
+      {
+        "id": 1,
+        "question": "“肝火犯肺”是属于",
+        "gold": "C",
+        "pred": "D"
+      },
+      {
+        "id": 2,
+        "question": "元气运行的道路是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "肾在液为",
+        "gold": "A",
+        "pred": "D"
+      },
+      {
+        "id": 4,
+        "question": "宜与蛤蚧对抗贮存的是",
+        "gold": "C",
+        "pred": "B"
+      }
+    ]
+  },
+  "virology.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "病毒感染宿主细胞后可出现",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 1,
+        "question": "病毒体核心的主要物质是",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 2,
+        "question": "流行病学属于什么范畴",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 3,
+        "question": "病毒的增殖方式是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 4,
+        "question": "下列病毒病哪种易发生潜伏感染",
+        "gold": "D",
+        "pred": "D"
+      }
+    ]
+  },
+  "world_history.csv": {
+    "accuracy": 1.0,
+    "samples": [
+      {
+        "id": 0,
+        "question": "被宗教人士评论为“让上帝远离了这个世界，降低了人类在其中的独一无二性”的学说是",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "在英国君主立宪制的建立过程中，1701年颁布的嗣位法发挥了重要作用。该法规定，国王所作的任何决定必须由同意该决定的大臣签署方能生效。这一规定的目的在于",
+        "gold": "C",
+        "pred": "C"
+      },
+      {
+        "id": 2,
+        "question": "第二次世界大战后，美苏两国逐渐走向政治、经济、军事领域的全面对抗。苏联在1949年成立经济互助委员会，协调和促进社会主义阵营各成员国的经济发展。此举主要针对的是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 3,
+        "question": "英国学者约翰·凯伊在分析西欧经济时指出，“全球化”一词在1990年取代“民营化”成为经济改革的标语。这一变化表明在西欧",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "有国外学者说，如果世界结束于1820年，一部此前300年全球经济史的主体就会是东亚；只有结尾的简短一章可能提到遥远的大西洋沿岸。这里的“结尾的简短一章”主要指的是",
+        "gold": "B",
+        "pred": "B"
+      }
+    ]
+  },
+  "world_religions.csv": {
+    "accuracy": 0.8,
+    "samples": [
+      {
+        "id": 0,
+        "question": "加尔文最开始在哪里进行宗教改革。",
+        "gold": "D",
+        "pred": "D"
+      },
+      {
+        "id": 1,
+        "question": "写下《坛经》的禅宗六祖是",
+        "gold": "A",
+        "pred": "A"
+      },
+      {
+        "id": 2,
+        "question": "马来西亚的国教是。",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 3,
+        "question": "佛陀于()入涅盘？",
+        "gold": "B",
+        "pred": "B"
+      },
+      {
+        "id": 4,
+        "question": "获得的觉是自觉、觉他的是",
+        "gold": "D",
+        "pred": "A"
+      }
+    ]
+  }
+}
